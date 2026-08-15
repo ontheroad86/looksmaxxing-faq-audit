@@ -1,0 +1,3447 @@
+{
+  "stats": {
+    "sitemapTotal": 208,
+    "scanned": 91,
+    "withFaq": 91,
+    "noFaq": 0,
+    "offTopic": 19,
+    "leaks": 10,
+    "sharedBlocks": 7,
+    "threshold": 0.34
+  },
+  "dupes": [
+    {
+      "count": 5,
+      "questions": [
+        "Who is this guide for?",
+        "How often should I update my routine?",
+        "Can I combine multiple looksmaxxing routines?",
+        "What if I have sensitive skin?",
+        "How do I track my looksmaxxing progress?",
+        "Is this guide backed by science?",
+        "How long until I see results?",
+        "Do I need a professional to guide me?"
+      ],
+      "urls": [
+        "https://looksmaxxing.guide/en/fitness/looksmaxxing-diet-plan/",
+        "https://looksmaxxing.guide/en/looks/daily-looksmaxxing-routine/",
+        "https://looksmaxxing.guide/en/looks/looksmaxxing-haircuts/",
+        "https://looksmaxxing.guide/en/looks/looksmaxxing-skincare-routine-men/",
+        "https://looksmaxxing.guide/en/looks/softmaxxing-guide/"
+      ]
+    },
+    {
+      "count": 4,
+      "questions": [
+        "Where did this term originate?",
+        "Is this term used seriously?",
+        "Should I use this terminology?",
+        "Is the concept behind this term scientifically valid?",
+        "How has this term evolved over time?",
+        "Are these terms used globally?",
+        "What is the most misunderstood looksmaxxing term?",
+        "Where can I learn more looksmaxxing terminology?"
+      ],
+      "urls": [
+        "https://looksmaxxing.guide/en/looks/does-mewing-work/",
+        "https://looksmaxxing.guide/en/looks/is-bonesmashing-dangerous/",
+        "https://looksmaxxing.guide/en/looks/looksmaxxing-glossary/",
+        "https://looksmaxxing.guide/en/looks/psl-rating-scale-explained/"
+      ]
+    },
+    {
+      "count": 4,
+      "questions": [
+        "Is this procedure worth the cost?",
+        "What is the recovery time?",
+        "How do I find a qualified surgeon?",
+        "What are the risks?",
+        "Can I finance the procedure?",
+        "How do I prepare for surgery?",
+        "Will the results look natural?",
+        "What if I am not happy with the results?"
+      ],
+      "urls": [
+        "https://looksmaxxing.guide/en/looks/hair-transplant-looksmaxxing/",
+        "https://looksmaxxing.guide/en/looks/looksmaxxing-surgery-guide/",
+        "https://looksmaxxing.guide/en/looks/looksmaxxing-surgery-turkey/",
+        "https://looksmaxxing.guide/en/looks/rhinoplasty-for-men/"
+      ]
+    },
+    {
+      "count": 4,
+      "questions": [
+        "Can I really improve this area without surgery?",
+        "How long do non-surgical improvements take?",
+        "What exercises help?",
+        "Should I consider cosmetic procedures?",
+        "Does genetics determine everything?",
+        "What is the most cost-effective improvement?",
+        "Are before-and-after photos reliable?",
+        "When should I see a specialist?"
+      ],
+      "urls": [
+        "https://looksmaxxing.guide/en/looks/hunter-eyes-explained/",
+        "https://looksmaxxing.guide/en/looks/looksmaxxing-jawline/",
+        "https://looksmaxxing.guide/en/looks/looksmaxxing-nose/",
+        "https://looksmaxxing.guide/en/looks/looksmaxxing-skincare-products/"
+      ]
+    },
+    {
+      "count": 3,
+      "questions": [
+        "Is looksmaxxing different for different demographics?",
+        "Are product recommendations universal?",
+        "Does age matter for looksmaxxing?",
+        "Where can I find tailored advice?",
+        "How do cultural standards affect looksmaxxing?",
+        "Is it too late to start in my 30s or 40s?",
+        "Should I follow the same routine as influencers?",
+        "What is the most impactful change at any age?"
+      ],
+      "urls": [
+        "https://looksmaxxing.guide/en/dating/boyfriend-wants-jaw-surgery/",
+        "https://looksmaxxing.guide/en/looks/looksmaxxing-for-black-men/",
+        "https://looksmaxxing.guide/en/looks/looksmaxxing-in-your-30s-40s/"
+      ]
+    },
+    {
+      "count": 2,
+      "questions": [
+        "What is the main difference covered in this comparison?",
+        "Which approach is better for beginners?",
+        "Can I combine both approaches?",
+        "How do I know which one is right for me?",
+        "What do experts recommend?",
+        "Are the results permanent?",
+        "What are the risks of each approach?",
+        "How much does each approach cost?"
+      ],
+      "urls": [
+        "https://looksmaxxing.guide/en/looks/is-looksmaxxing-real/",
+        "https://looksmaxxing.guide/en/looks/looksmaxxing-vs-glow-up/"
+      ]
+    },
+    {
+      "count": 2,
+      "questions": [
+        "Are AI looksmaxxing tools accurate?",
+        "Which AI rating tool is the most reliable?",
+        "Can ChatGPT rate my appearance?",
+        "Are these tools free?",
+        "Do AI tools work for all ethnicities?",
+        "Can AI suggest specific improvements?",
+        "How often should I use rating tools?",
+        "Is my data safe with these tools?"
+      ],
+      "urls": [
+        "https://looksmaxxing.guide/en/looks/looksmaxxing-ai-rating-tools-compared/",
+        "https://looksmaxxing.guide/en/looks/looksmaxxing-gpt-accuracy/"
+      ]
+    }
+  ],
+  "rows": [
+    {
+      "url": "https://looksmaxxing.guide/en/creativity/ai-creative-tools-guide/",
+      "title": "AI Creative Tools — The Real Guide for 2026",
+      "cluster": "ai creativity",
+      "hasFaq": true,
+      "faqCount": 8,
+      "questions": [
+        "Which AI tool should a beginner creator start with?",
+        "Will AI replace creative jobs?",
+        "Is AI art real art?",
+        "Does Google penalize AI content?",
+        "What is the best AI image generator in 2026?",
+        "Can AI make music that sounds real?",
+        "How much should I pay for AI tools?",
+        "Do I need to disclose when I use AI?"
+      ],
+      "fingerprint": "Which AI tool should a beginner creator start with? | Will AI replace creative jobs? | Is AI art real art? | Does Google penalize AI content? | What is the best AI image generator in 2026? | Can AI make music that sounds real? | How much should I pay for AI tools? | Do I need to disclose when I use AI?",
+      "titleOverlap": 0.8,
+      "bodyOverlap": 0.397,
+      "titleTerms": [
+        "creative",
+        "tools",
+        "real",
+        "guide",
+        "2026"
+      ],
+      "titleHits": [
+        "creative",
+        "tools",
+        "real",
+        "2026"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 458,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/creativity/ai-image-generation-guide/",
+      "title": "AI Image Generation in 2026 — Midjourney, FLUX, and What Still Requires a Human",
+      "cluster": "ai creativity",
+      "hasFaq": true,
+      "faqCount": 7,
+      "questions": [
+        "Which AI image generator is best in 2026?",
+        "Can I use AI images commercially?",
+        "How do I make AI images not look like AI?",
+        "Is it easier to learn AI image tools or Photoshop?",
+        "Do AI images need copyright attribution?",
+        "Can AI generate images of specific people?",
+        "What is the cheapest way to try AI image generation?"
+      ],
+      "fingerprint": "Which AI image generator is best in 2026? | Can I use AI images commercially? | How do I make AI images not look like AI? | Is it easier to learn AI image tools or Photoshop? | Do AI images need copyright attribution? | Can AI generate images of specific people? | What is the cheapest way to try AI image generation?",
+      "titleOverlap": 0.75,
+      "bodyOverlap": 0.47,
+      "titleTerms": [
+        "image",
+        "generation",
+        "2026",
+        "midjourney",
+        "flux",
+        "still",
+        "requires",
+        "human"
+      ],
+      "titleHits": [
+        "image",
+        "generation",
+        "2026",
+        "midjourney",
+        "flux",
+        "human"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 574,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/creativity/chatgpt-claude-creative-writing/",
+      "title": "Using ChatGPT and Claude for Creative Writing That Does Not Suck",
+      "cluster": "ai creativity",
+      "hasFaq": true,
+      "faqCount": 7,
+      "questions": [
+        "Is Claude or ChatGPT better for creative writing?",
+        "Can I use AI to write a novel?",
+        "How do I make AI writing sound like me?",
+        "Will Google detect AI-written content?",
+        "Should I disclose AI use in my writing?",
+        "What prompts work best for creative writing?",
+        "Can AI write in a specific style (Hemingway, Bukowski, etc)?"
+      ],
+      "fingerprint": "Is Claude or ChatGPT better for creative writing? | Can I use AI to write a novel? | How do I make AI writing sound like me? | Will Google detect AI-written content? | Should I disclose AI use in my writing? | What prompts work best for creative writing? | Can AI write in a specific style (Hemingway, Bukowski, etc)?",
+      "titleOverlap": 0.667,
+      "bodyOverlap": 0.484,
+      "titleTerms": [
+        "using",
+        "chatgpt",
+        "claude",
+        "creative",
+        "writing",
+        "suck"
+      ],
+      "titleHits": [
+        "chatgpt",
+        "claude",
+        "creative",
+        "writing"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 488,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/creativity/should-creators-use-ai/",
+      "title": "Should Creators Use AI? The Honest Answer",
+      "cluster": "ai creativity",
+      "hasFaq": true,
+      "faqCount": 7,
+      "questions": [
+        "Is it ethical to use AI for creative work?",
+        "Will AI replace creative jobs?",
+        "Is AI training on copyrighted work legal?",
+        "Should I disclose AI use in my work?",
+        "Can AI-assisted work win art or writing awards?",
+        "Does AI make creativity easier or harder?",
+        "Is using AI cheating ?"
+      ],
+      "fingerprint": "Is it ethical to use AI for creative work? | Will AI replace creative jobs? | Is AI training on copyrighted work legal? | Should I disclose AI use in my work? | Can AI-assisted work win art or writing awards? | Does AI make creativity easier or harder? | Is using AI cheating ?",
+      "titleOverlap": 0.25,
+      "bodyOverlap": 0.395,
+      "titleTerms": [
+        "creators",
+        "use",
+        "honest",
+        "answer"
+      ],
+      "titleHits": [
+        "use"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 531,
+      "offTopic": true
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/creativity/vibe-coding-and-tokenmaxxing/",
+      "title": "Vibe Coding and Tokenmaxxing — Shipping Software in 2026",
+      "cluster": "ai creativity",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "What is vibe coding?",
+        "What is tokenmaxxing?",
+        "Can a non-programmer actually ship an app with vibe coding?",
+        "What is the best tool for vibe coding?",
+        "Is vibe coding the same as using AI in coding?",
+        "What are the main risks of vibe coding?",
+        "How do I reduce my AI coding costs?",
+        "Will vibe coding replace software engineers?",
+        "How long does it take to vibe code a working app?",
+        "Should I learn to code if vibe coding exists?"
+      ],
+      "fingerprint": "What is vibe coding? | What is tokenmaxxing? | Can a non-programmer actually ship an app with vibe coding? | What is the best tool for vibe coding? | Is vibe coding the same as using AI in coding? | What are the main risks of vibe coding? | How do I reduce my AI coding costs? | Will vibe coding replace software engineers? | How long does it take to vibe code a working app? | Should I learn to code if vibe coding exists?",
+      "titleOverlap": 0.667,
+      "bodyOverlap": 0.679,
+      "titleTerms": [
+        "vibe",
+        "coding",
+        "tokenmaxxing",
+        "shipping",
+        "software",
+        "2026"
+      ],
+      "titleHits": [
+        "vibe",
+        "coding",
+        "tokenmaxxing",
+        "software"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 938,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/dating/boyfriend-wants-jaw-surgery/",
+      "title": "My Boyfriend Wants Jaw Surgery — What You Should Know",
+      "cluster": "demographics",
+      "hasFaq": true,
+      "faqCount": 8,
+      "questions": [
+        "Is looksmaxxing different for different demographics?",
+        "Are product recommendations universal?",
+        "Does age matter for looksmaxxing?",
+        "Where can I find tailored advice?",
+        "How do cultural standards affect looksmaxxing?",
+        "Is it too late to start in my 30s or 40s?",
+        "Should I follow the same routine as influencers?",
+        "What is the most impactful change at any age?"
+      ],
+      "fingerprint": "Is looksmaxxing different for different demographics? | Are product recommendations universal? | Does age matter for looksmaxxing? | Where can I find tailored advice? | How do cultural standards affect looksmaxxing? | Is it too late to start in my 30s or 40s? | Should I follow the same routine as influencers? | What is the most impactful change at any age?",
+      "titleOverlap": 0,
+      "bodyOverlap": 0.237,
+      "titleTerms": [
+        "boyfriend",
+        "wants",
+        "jaw",
+        "surgery",
+        "know"
+      ],
+      "titleHits": [],
+      "markdownLeak": false,
+      "bodyWords": 907,
+      "offTopic": true
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/dating/building-confidence-with-women/",
+      "title": "Building Real Confidence with Women",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "How long does it take to build real confidence with women?",
+        "Can I fake confidence until I make it?",
+        "Does fitness build confidence?",
+        "How do I handle rejection?",
+        "Should I dress better to feel more confident?",
+        "Is confidence attractive to women?",
+        "What is the difference between confidence and arrogance?",
+        "How does approaching more women build confidence?",
+        "Can therapy help with dating confidence?",
+        "Why do confident men seem more attractive?"
+      ],
+      "fingerprint": "How long does it take to build real confidence with women? | Can I fake confidence until I make it? | Does fitness build confidence? | How do I handle rejection? | Should I dress better to feel more confident? | Is confidence attractive to women? | What is the difference between confidence and arrogance? | How does approaching more women build confidence? | Can therapy help with dating confidence? | Why do confident men seem more attractive?",
+      "titleOverlap": 1,
+      "bodyOverlap": 0.362,
+      "titleTerms": [
+        "building",
+        "real",
+        "confidence",
+        "women"
+      ],
+      "titleHits": [
+        "building",
+        "real",
+        "confidence",
+        "women"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 443,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/dating/dating-app-optimization/",
+      "title": "Dating App Profile Optimization — The Real Version",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "What is the best dating app for men?",
+        "How many photos should my dating profile have?",
+        "Are bathroom selfies bad?",
+        "Should I pay for dating app premium features?",
+        "Is it worth paying for professional dating photos?",
+        "What should I say in my first message?",
+        "How long should I chat before asking to meet?",
+        "Why am I getting no matches?",
+        "Should I lie about my height on dating apps?",
+        "How many matches is normal?"
+      ],
+      "fingerprint": "What is the best dating app for men? | How many photos should my dating profile have? | Are bathroom selfies bad? | Should I pay for dating app premium features? | Is it worth paying for professional dating photos? | What should I say in my first message? | How long should I chat before asking to meet? | Why am I getting no matches? | Should I lie about my height on dating apps? | How many matches is normal?",
+      "titleOverlap": 0.667,
+      "bodyOverlap": 0.449,
+      "titleTerms": [
+        "dating",
+        "app",
+        "profile",
+        "optimization",
+        "real",
+        "version"
+      ],
+      "titleHits": [
+        "dating",
+        "app",
+        "profile",
+        "real"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 446,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/dating/first-date-guide/",
+      "title": "The First Date Guide for Men",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "Where should I take a woman for a first date?",
+        "How long should a first date be?",
+        "Who pays on a first date?",
+        "Should I kiss her on the first date?",
+        "What should I talk about on a first date?",
+        "How long should I wait to text after a first date?",
+        "What if I get nervous before a first date?",
+        "How do I know if she wants a second date?",
+        "Should I offer to drive her home?",
+        "What if the date is going badly?"
+      ],
+      "fingerprint": "Where should I take a woman for a first date? | How long should a first date be? | Who pays on a first date? | Should I kiss her on the first date? | What should I talk about on a first date? | How long should I wait to text after a first date? | What if I get nervous before a first date? | How do I know if she wants a second date? | Should I offer to drive her home? | What if the date is going badly?",
+      "titleOverlap": 0.5,
+      "bodyOverlap": 0.518,
+      "titleTerms": [
+        "first",
+        "date",
+        "guide",
+        "men"
+      ],
+      "titleHits": [
+        "first",
+        "date"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 366,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/dating/how-to-approach-women/",
+      "title": "How to Approach Women Without Being Weird",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "Is it weird to approach women in public?",
+        "Where is the best place to meet women?",
+        "What should I say when I approach a woman?",
+        "How do I know if she is interested?",
+        "How do I handle rejection?",
+        "Is cold approaching still effective in 2026?",
+        "Should I ask for her number or Instagram?",
+        "What if I am shy?",
+        "Is online dating better than approaching in person?",
+        "How long should I talk to her before asking for a number?"
+      ],
+      "fingerprint": "Is it weird to approach women in public? | Where is the best place to meet women? | What should I say when I approach a woman? | How do I know if she is interested? | How do I handle rejection? | Is cold approaching still effective in 2026? | Should I ask for her number or Instagram? | What if I am shy? | Is online dating better than approaching in person? | How long should I talk to her before asking for a number?",
+      "titleOverlap": 1,
+      "bodyOverlap": 0.539,
+      "titleTerms": [
+        "approach",
+        "women",
+        "weird"
+      ],
+      "titleHits": [
+        "approach",
+        "women",
+        "weird"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 366,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/dating/long-term-relationship-guide/",
+      "title": "What Actually Makes Long-Term Relationships Work",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "What makes long-term relationships work?",
+        "When does the honeymoon phase end?",
+        "How do you keep passion alive long-term?",
+        "What kills long-term relationships?",
+        "Should I still put in effort after getting engaged or married?",
+        "How often should couples have sex?",
+        "Is it normal to argue in a long-term relationship?",
+        "How do I know if she is the right person long-term?",
+        "Should we spend all our time together?",
+        "What is the biggest mistake men make in long-term relationships?"
+      ],
+      "fingerprint": "What makes long-term relationships work? | When does the honeymoon phase end? | How do you keep passion alive long-term? | What kills long-term relationships? | Should I still put in effort after getting engaged or married? | How often should couples have sex? | Is it normal to argue in a long-term relationship? | How do I know if she is the right person long-term? | Should we spend all our time together? | What is the biggest mistake men make in long-term relationships?",
+      "titleOverlap": 0.8,
+      "bodyOverlap": 0.487,
+      "titleTerms": [
+        "actually",
+        "makes",
+        "long-term",
+        "relationships",
+        "work"
+      ],
+      "titleHits": [
+        "makes",
+        "long-term",
+        "relationships",
+        "work"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 447,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/dating/passport-bros-explained/",
+      "title": "Passport Bros — What the Movement Actually Is",
+      "cluster": "glossary culture",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "What does passport bros mean?",
+        "Where do passport bros go?",
+        "Why do men become passport bros?",
+        "Is being a passport bro legal?",
+        "How much does it cost to live as a passport bro?",
+        "What are the criticisms of the passport bro movement?",
+        "Where can I learn more about passport bros?",
+        "Do passport bro relationships actually work long-term?",
+        "Is the passport bro movement controversial?",
+        "Should I consider becoming a passport bro?"
+      ],
+      "fingerprint": "What does passport bros mean? | Where do passport bros go? | Why do men become passport bros? | Is being a passport bro legal? | How much does it cost to live as a passport bro? | What are the criticisms of the passport bro movement? | Where can I learn more about passport bros? | Do passport bro relationships actually work long-term? | Is the passport bro movement controversial? | Should I consider becoming a passport bro?",
+      "titleOverlap": 1,
+      "bodyOverlap": 0.684,
+      "titleTerms": [
+        "passport",
+        "bros",
+        "movement",
+        "actually"
+      ],
+      "titleHits": [
+        "passport",
+        "bros",
+        "movement",
+        "actually"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 626,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/fitness/anti-aging-for-men/",
+      "title": "Anti-Aging for Men — What Actually Keeps You Young",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "What is the most effective anti-aging strategy?",
+        "When should men start anti-aging?",
+        "Does sunscreen really prevent aging?",
+        "Do anti-aging supplements work?",
+        "Is testosterone decline inevitable?",
+        "How often should men get bloodwork?",
+        "Does strength training really slow aging?",
+        "What skincare should men use for anti-aging?",
+        "Does stress really affect aging?",
+        "What lifestyle changes have the biggest anti-aging effect?"
+      ],
+      "fingerprint": "What is the most effective anti-aging strategy? | When should men start anti-aging? | Does sunscreen really prevent aging? | Do anti-aging supplements work? | Is testosterone decline inevitable? | How often should men get bloodwork? | Does strength training really slow aging? | What skincare should men use for anti-aging? | Does stress really affect aging? | What lifestyle changes have the biggest anti-aging effect?",
+      "titleOverlap": 0.4,
+      "bodyOverlap": 0.476,
+      "titleTerms": [
+        "anti-aging",
+        "men",
+        "actually",
+        "keeps",
+        "young"
+      ],
+      "titleHits": [
+        "anti-aging",
+        "men"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 349,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/fitness/beginner-strength-program/",
+      "title": "A Beginner Strength Program That Actually Works",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "How long before I see results from a beginner strength program?",
+        "Can I do cardio while doing a beginner strength program?",
+        "What if I miss a workout?",
+        "Do I need a gym or can I do this at home?",
+        "Should I use a belt or straps as a beginner?",
+        "How much protein do I need on a beginner program?",
+        "Can I add bicep curls or other exercises?",
+        "What if I fail a set?",
+        "Why no ab exercises in the program?",
+        "How do I know when I am ready to stop being a beginner?"
+      ],
+      "fingerprint": "How long before I see results from a beginner strength program? | Can I do cardio while doing a beginner strength program? | What if I miss a workout? | Do I need a gym or can I do this at home? | Should I use a belt or straps as a beginner? | How much protein do I need on a beginner program? | Can I add bicep curls or other exercises? | What if I fail a set? | Why no ab exercises in the program? | How do I know when I am ready to stop being a beginner?",
+      "titleOverlap": 0.8,
+      "bodyOverlap": 0.34,
+      "titleTerms": [
+        "beginner",
+        "strength",
+        "program",
+        "actually",
+        "works"
+      ],
+      "titleHits": [
+        "beginner",
+        "strength",
+        "program",
+        "works"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 220,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/fitness/best-training-splits-aesthetics/",
+      "title": "Best Training Splits for an Aesthetic Physique",
+      "cluster": "comparison",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "Which training split is best for building muscle?",
+        "How many days per week should I lift for an aesthetic physique?",
+        "Is push-pull-legs better than upper-lower?",
+        "Why is the bro split bad?",
+        "Can I change splits mid-program?",
+        "What is the best split for fat loss?",
+        "Should I add cardio to my lifting split?",
+        "How long should a lifting session be?",
+        "Do I need to train abs separately?",
+        "How do I know my split is working?"
+      ],
+      "fingerprint": "Which training split is best for building muscle? | How many days per week should I lift for an aesthetic physique? | Is push-pull-legs better than upper-lower? | Why is the bro split bad? | Can I change splits mid-program? | What is the best split for fat loss? | Should I add cardio to my lifting split? | How long should a lifting session be? | Do I need to train abs separately? | How do I know my split is working?",
+      "titleOverlap": 1,
+      "bodyOverlap": 0.385,
+      "titleTerms": [
+        "best",
+        "training",
+        "splits",
+        "aesthetic",
+        "physique"
+      ],
+      "titleHits": [
+        "best",
+        "training",
+        "splits",
+        "aesthetic",
+        "physique"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 245,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/fitness/biohacking-basics/",
+      "title": "Biohacking Basics — What Actually Moves the Needle",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "What is biohacking?",
+        "What are the best biohacks for beginners?",
+        "Does cold exposure work?",
+        "Is a sauna worth it?",
+        "Should I get a continuous glucose monitor?",
+        "Is intermittent fasting biohacking?",
+        "Does red light therapy work?",
+        "Are peptides safe?",
+        "How much should I spend on biohacking?",
+        "Should I copy Bryan Johnson?"
+      ],
+      "fingerprint": "What is biohacking? | What are the best biohacks for beginners? | Does cold exposure work? | Is a sauna worth it? | Should I get a continuous glucose monitor? | Is intermittent fasting biohacking? | Does red light therapy work? | Are peptides safe? | How much should I spend on biohacking? | Should I copy Bryan Johnson?",
+      "titleOverlap": 0.4,
+      "bodyOverlap": 0.555,
+      "titleTerms": [
+        "biohacking",
+        "basics",
+        "actually",
+        "moves",
+        "needle"
+      ],
+      "titleHits": [
+        "biohacking",
+        "basics"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 343,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/fitness/boost-testosterone-naturally/",
+      "title": "How to Boost Testosterone Naturally",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "Can you actually raise testosterone naturally?",
+        "What is the fastest way to boost testosterone?",
+        "Do testosterone booster supplements work?",
+        "Does lifting raise testosterone?",
+        "Does body fat affect testosterone?",
+        "Does no-fap raise testosterone?",
+        "Should I get my testosterone tested?",
+        "What testosterone level is considered low?",
+        "Does alcohol lower testosterone?",
+        "Is TRT worth it?"
+      ],
+      "fingerprint": "Can you actually raise testosterone naturally? | What is the fastest way to boost testosterone? | Do testosterone booster supplements work? | Does lifting raise testosterone? | Does body fat affect testosterone? | Does no-fap raise testosterone? | Should I get my testosterone tested? | What testosterone level is considered low? | Does alcohol lower testosterone? | Is TRT worth it?",
+      "titleOverlap": 1,
+      "bodyOverlap": 0.5,
+      "titleTerms": [
+        "boost",
+        "testosterone",
+        "naturally"
+      ],
+      "titleHits": [
+        "boost",
+        "testosterone",
+        "naturally"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 278,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/fitness/cardio-for-fat-loss/",
+      "title": "Cardio for Fat Loss — What Actually Works",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "Is HIIT better than steady-state cardio for fat loss?",
+        "How much cardio should I do to lose fat?",
+        "Will cardio kill my gains?",
+        "What is Zone 2 cardio?",
+        "Is walking enough cardio?",
+        "Should I do cardio in the morning or evening?",
+        "How long until I see fat loss from cardio?",
+        "Can I do cardio every day?",
+        "What heart rate should I target for fat loss?",
+        "Does cardio build muscle?"
+      ],
+      "fingerprint": "Is HIIT better than steady-state cardio for fat loss? | How much cardio should I do to lose fat? | Will cardio kill my gains? | What is Zone 2 cardio? | Is walking enough cardio? | Should I do cardio in the morning or evening? | How long until I see fat loss from cardio? | Can I do cardio every day? | What heart rate should I target for fat loss? | Does cardio build muscle?",
+      "titleOverlap": 0.8,
+      "bodyOverlap": 0.391,
+      "titleTerms": [
+        "cardio",
+        "fat",
+        "loss",
+        "actually",
+        "works"
+      ],
+      "titleHits": [
+        "cardio",
+        "fat",
+        "loss",
+        "actually"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 250,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/fitness/glp-1-for-men-guide/",
+      "title": "GLP-1 Medications (Ozempic, Wegovy, Mounjaro) for Men — The Real Guide",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "What are GLP-1 medications?",
+        "How much weight can men lose on GLP-1?",
+        "What are the side effects of GLP-1?",
+        "How much do GLP-1 medications cost?",
+        "Do you have to stay on GLP-1 forever?",
+        "Can I get GLP-1 without diabetes?",
+        "Is compounded semaglutide safe?",
+        "Will I lose muscle on GLP-1?",
+        "Should young, lean men use GLP-1 to lose 10 pounds?",
+        "Is GLP-1 worth it?"
+      ],
+      "fingerprint": "What are GLP-1 medications? | How much weight can men lose on GLP-1? | What are the side effects of GLP-1? | How much do GLP-1 medications cost? | Do you have to stay on GLP-1 forever? | Can I get GLP-1 without diabetes? | Is compounded semaglutide safe? | Will I lose muscle on GLP-1? | Should young, lean men use GLP-1 to lose 10 pounds? | Is GLP-1 worth it?",
+      "titleOverlap": 0.875,
+      "bodyOverlap": 0.695,
+      "titleTerms": [
+        "glp-1",
+        "medications",
+        "ozempic",
+        "wegovy",
+        "mounjaro",
+        "men",
+        "real",
+        "guide"
+      ],
+      "titleHits": [
+        "glp-1",
+        "medications",
+        "ozempic",
+        "wegovy",
+        "mounjaro",
+        "men",
+        "real"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 517,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/fitness/home-workout-guide/",
+      "title": "The Complete Home Workout Guide (No Equipment Needed)",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "Can you build muscle with just bodyweight?",
+        "How long until I see results from home workouts?",
+        "Do I need any equipment for home workouts?",
+        "How many days a week should I do home workouts?",
+        "Can I lose weight with home workouts?",
+        "What if I cannot do a single pull-up?",
+        "How do I progress without adding weight?",
+        "Are home workouts as effective as gym workouts?",
+        "How much space do I need for a home workout?",
+        "Should I do cardio at home too?"
+      ],
+      "fingerprint": "Can you build muscle with just bodyweight? | How long until I see results from home workouts? | Do I need any equipment for home workouts? | How many days a week should I do home workouts? | Can I lose weight with home workouts? | What if I cannot do a single pull-up? | How do I progress without adding weight? | Are home workouts as effective as gym workouts? | How much space do I need for a home workout? | Should I do cardio at home too?",
+      "titleOverlap": 0.667,
+      "bodyOverlap": 0.32,
+      "titleTerms": [
+        "complete",
+        "home",
+        "workout",
+        "guide",
+        "equipment",
+        "needed"
+      ],
+      "titleHits": [
+        "home",
+        "workout",
+        "equipment",
+        "needed"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 253,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/fitness/looksmaxxing-diet-plan/",
+      "title": "The Looksmaxxing Diet — Eat to Look Better",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 8,
+      "questions": [
+        "Who is this guide for?",
+        "How often should I update my routine?",
+        "Can I combine multiple looksmaxxing routines?",
+        "What if I have sensitive skin?",
+        "How do I track my looksmaxxing progress?",
+        "Is this guide backed by science?",
+        "How long until I see results?",
+        "Do I need a professional to guide me?"
+      ],
+      "fingerprint": "Who is this guide for? | How often should I update my routine? | Can I combine multiple looksmaxxing routines? | What if I have sensitive skin? | How do I track my looksmaxxing progress? | Is this guide backed by science? | How long until I see results? | Do I need a professional to guide me?",
+      "titleOverlap": 0.8,
+      "bodyOverlap": 0.261,
+      "titleTerms": [
+        "looksmaxxing",
+        "diet",
+        "eat",
+        "look",
+        "better"
+      ],
+      "titleHits": [
+        "looksmaxxing",
+        "diet",
+        "eat",
+        "better"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 1098,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/fitness/martial-arts-for-men/",
+      "title": "Which Martial Art Should You Actually Train?",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "What is the best martial art for self-defense?",
+        "How old is too old to start martial arts?",
+        "How many days a week should I train?",
+        "How long until I can defend myself?",
+        "Will martial arts help me lose weight?",
+        "Is martial arts safer than lifting?",
+        "Do I need to be in shape before starting?",
+        "How much does martial arts cost?",
+        "Can I train martial arts and lift weights?",
+        "What should I look for in a martial arts gym?"
+      ],
+      "fingerprint": "What is the best martial art for self-defense? | How old is too old to start martial arts? | How many days a week should I train? | How long until I can defend myself? | Will martial arts help me lose weight? | Is martial arts safer than lifting? | Do I need to be in shape before starting? | How much does martial arts cost? | Can I train martial arts and lift weights? | What should I look for in a martial arts gym?",
+      "titleOverlap": 0.75,
+      "bodyOverlap": 0.303,
+      "titleTerms": [
+        "martial",
+        "art",
+        "actually",
+        "train"
+      ],
+      "titleHits": [
+        "martial",
+        "art",
+        "train"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 256,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/fitness/meal-prep-for-men/",
+      "title": "Meal Prep for Men Who Actually Eat",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "How long does meal prep take?",
+        "How many meals should I prep at once?",
+        "Can meal prep help me lose weight?",
+        "What is the cheapest meal prep?",
+        "How long does prepped food stay good?",
+        "Do I need to count macros?",
+        "What containers are best for meal prep?",
+        "Should I prep breakfast too?",
+        "How much protein per meal do I need?",
+        "Can I meal prep while traveling?"
+      ],
+      "fingerprint": "How long does meal prep take? | How many meals should I prep at once? | Can meal prep help me lose weight? | What is the cheapest meal prep? | How long does prepped food stay good? | Do I need to count macros? | What containers are best for meal prep? | Should I prep breakfast too? | How much protein per meal do I need? | Can I meal prep while traveling?",
+      "titleOverlap": 0.6,
+      "bodyOverlap": 0.382,
+      "titleTerms": [
+        "meal",
+        "prep",
+        "men",
+        "actually",
+        "eat"
+      ],
+      "titleHits": [
+        "meal",
+        "prep",
+        "men"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 287,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/fitness/mens-supplements-guide/",
+      "title": "The Only Supplements Guide for Men You Need",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "What supplements should every man take?",
+        "Do multivitamins work?",
+        "Is creatine safe long-term?",
+        "How do I know if I am vitamin D deficient?",
+        "Should I take zinc?",
+        "Is fish oil safe?",
+        "Can I just eat healthy instead of supplements?",
+        "Do supplements interact with medications?",
+        "How long until supplements work?",
+        "Are expensive supplements better?"
+      ],
+      "fingerprint": "What supplements should every man take? | Do multivitamins work? | Is creatine safe long-term? | How do I know if I am vitamin D deficient? | Should I take zinc? | Is fish oil safe? | Can I just eat healthy instead of supplements? | Do supplements interact with medications? | How long until supplements work? | Are expensive supplements better?",
+      "titleOverlap": 0.5,
+      "bodyOverlap": 0.357,
+      "titleTerms": [
+        "supplements",
+        "guide",
+        "men",
+        "need"
+      ],
+      "titleHits": [
+        "supplements",
+        "need"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 330,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/fitness/peptides-guide-for-men/",
+      "title": "Peptides for Men — Honest Guide to BPC-157, TB-500, CJC-1295 and More",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "What are peptides used for?",
+        "Are peptides legal?",
+        "Does BPC-157 actually work?",
+        "Are peptides safe?",
+        "How much do peptides cost?",
+        "Where do people get peptides?",
+        "Will peptides build muscle?",
+        "Are peptides like steroids?",
+        "Can I use peptides for fat loss?",
+        "Should I try peptides?"
+      ],
+      "fingerprint": "What are peptides used for? | Are peptides legal? | Does BPC-157 actually work? | Are peptides safe? | How much do peptides cost? | Where do people get peptides? | Will peptides build muscle? | Are peptides like steroids? | Can I use peptides for fat loss? | Should I try peptides?",
+      "titleOverlap": 0.714,
+      "bodyOverlap": 0.653,
+      "titleTerms": [
+        "peptides",
+        "men",
+        "honest",
+        "guide",
+        "bpc-157",
+        "tb-500",
+        "cjc-1295"
+      ],
+      "titleHits": [
+        "peptides",
+        "men",
+        "bpc-157",
+        "tb-500",
+        "cjc-1295"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 578,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/fitness/sleep-optimization-guide/",
+      "title": "Sleep Optimization — The Real Guide",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "How many hours of sleep do men actually need?",
+        "What is the best bedroom temperature for sleep?",
+        "Does blue light really affect sleep?",
+        "Should I take melatonin for sleep?",
+        "Can I catch up on sleep on weekends?",
+        "Does alcohol affect sleep?",
+        "What supplements help with sleep?",
+        "Should I wear a sleep tracker?",
+        "How long does it take to fix bad sleep?",
+        "What if I still cannot sleep well after fixing the basics?"
+      ],
+      "fingerprint": "How many hours of sleep do men actually need? | What is the best bedroom temperature for sleep? | Does blue light really affect sleep? | Should I take melatonin for sleep? | Can I catch up on sleep on weekends? | Does alcohol affect sleep? | What supplements help with sleep? | Should I wear a sleep tracker? | How long does it take to fix bad sleep? | What if I still cannot sleep well after fixing the basics?",
+      "titleOverlap": 0.25,
+      "bodyOverlap": 0.473,
+      "titleTerms": [
+        "sleep",
+        "optimization",
+        "real",
+        "guide"
+      ],
+      "titleHits": [
+        "sleep"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 330,
+      "offTopic": true
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/fitness/supplements-that-work/",
+      "title": "Supplements That Actually Work (And Those That Do Not)",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "What supplements actually work for building muscle?",
+        "Is creatine safe?",
+        "Do I need pre-workout?",
+        "Are testosterone boosters legit?",
+        "Do I need BCAAs or EAAs?",
+        "How much protein should I supplement?",
+        "Are fat burners worth it?",
+        "Should I take vitamin D?",
+        "Do greens powders work?",
+        "What is the minimum supplement stack for fitness?"
+      ],
+      "fingerprint": "What supplements actually work for building muscle? | Is creatine safe? | Do I need pre-workout? | Are testosterone boosters legit? | Do I need BCAAs or EAAs? | How much protein should I supplement? | Are fat burners worth it? | Should I take vitamin D? | Do greens powders work? | What is the minimum supplement stack for fitness?",
+      "titleOverlap": 1,
+      "bodyOverlap": 0.507,
+      "titleTerms": [
+        "supplements",
+        "actually",
+        "work"
+      ],
+      "titleHits": [
+        "supplements",
+        "actually",
+        "work"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 312,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/fitness/weight-loss-for-men/",
+      "title": "Weight Loss for Men — The Honest Playbook",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "How much weight can a man realistically lose in 3 months?",
+        "What is the best diet for male weight loss?",
+        "How many calories should I eat to lose weight?",
+        "Should I do cardio to lose weight?",
+        "Why am I not losing weight even though I am eating less?",
+        "How do I lose belly fat specifically?",
+        "Is intermittent fasting the best way to lose weight?",
+        "How much protein do I need while losing weight?",
+        "Will I lose muscle when losing weight?",
+        "When should I consider GLP-1 medications?"
+      ],
+      "fingerprint": "How much weight can a man realistically lose in 3 months? | What is the best diet for male weight loss? | How many calories should I eat to lose weight? | Should I do cardio to lose weight? | Why am I not losing weight even though I am eating less? | How do I lose belly fat specifically? | Is intermittent fasting the best way to lose weight? | How much protein do I need while losing weight? | Will I lose muscle when losing weight? | When should I consider GLP-1 medications?",
+      "titleOverlap": 0.6,
+      "bodyOverlap": 0.529,
+      "titleTerms": [
+        "weight",
+        "loss",
+        "men",
+        "honest",
+        "playbook"
+      ],
+      "titleHits": [
+        "weight",
+        "loss",
+        "men"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 448,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/best-looksmaxxing-apps-2026/",
+      "title": "Best Looksmaxxing Apps 2026: Free + Paid, Ranked Honestly",
+      "cluster": "ai tools",
+      "hasFaq": true,
+      "faqCount": 15,
+      "questions": [
+        "What is the best looksmaxxing app in 2026?",
+        "What is the best free looksmaxxing app?",
+        "Are AI looksmaxxing tools accurate?",
+        "Which AI rating tool is the most reliable?",
+        "Can ChatGPT rate my appearance?",
+        "Are these tools free?",
+        "Do AI tools work for all ethnicities?",
+        "Can AI suggest specific improvements?",
+        "How often should I use rating tools?",
+        "Is my data safe with these tools?",
+        "What apps should I avoid?",
+        "Do AI tools work for all ethnicities?",
+        "Can AI suggest specific improvements?",
+        "How often should I use rating tools?",
+        "Is my data safe with these tools?"
+      ],
+      "fingerprint": "What is the best looksmaxxing app in 2026? | What is the best free looksmaxxing app? | Are AI looksmaxxing tools accurate? | Which AI rating tool is the most reliable? | Can ChatGPT rate my appearance? | Are these tools free? | Do AI tools work for all ethnicities? | Can AI suggest specific improvements? | How often should I use rating tools? | Is my data safe with these tools? | What apps should I avoid? | Do AI tools work for all ethnicities? | Can AI suggest specific improvements? | How often should I use rating tools? | Is my data safe with these tools?",
+      "titleOverlap": 0.75,
+      "bodyOverlap": 0.349,
+      "titleTerms": [
+        "best",
+        "looksmaxxing",
+        "apps",
+        "2026",
+        "free",
+        "paid",
+        "ranked",
+        "honestly"
+      ],
+      "titleHits": [
+        "best",
+        "looksmaxxing",
+        "apps",
+        "2026",
+        "free",
+        "paid"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 1161,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/clavicular-aqualyx-jenny-popach/",
+      "title": "The Clavicular Aqualyx Incident: What Was Injected, and Why It's a Criminal Act",
+      "cluster": "trending deep-dive",
+      "hasFaq": true,
+      "faqCount": 9,
+      "questions": [
+        "What is Aqualyx?",
+        "What happened with Clavicular and Jenny Popach?",
+        "Is it legal for a non-clinician to inject Aqualyx?",
+        "What are the medical risks of unlicensed Aqualyx injection?",
+        "Did Jenny Popach consent?",
+        "Has anyone been hurt by similar incidents?",
+        "Why did Clavicular do this on stream?",
+        "Is this normal in the looksmaxxing influencer economy?",
+        "What should I do if I'm offered an unlicensed injection?"
+      ],
+      "fingerprint": "What is Aqualyx? | What happened with Clavicular and Jenny Popach? | Is it legal for a non-clinician to inject Aqualyx? | What are the medical risks of unlicensed Aqualyx injection? | Did Jenny Popach consent? | Has anyone been hurt by similar incidents? | Why did Clavicular do this on stream? | Is this normal in the looksmaxxing influencer economy? | What should I do if I'm offered an unlicensed injection?",
+      "titleOverlap": 0.857,
+      "bodyOverlap": 0.645,
+      "titleTerms": [
+        "clavicular",
+        "aqualyx",
+        "incident",
+        "injected",
+        "it's",
+        "criminal",
+        "act"
+      ],
+      "titleHits": [
+        "clavicular",
+        "aqualyx",
+        "incident",
+        "injected",
+        "criminal",
+        "act"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 930,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/clavicular-before-and-after/",
+      "title": "Clavicular Before and After: What the Photos Actually Show",
+      "cluster": "trending deep-dive",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "What does Clavicular look like before vs after?",
+        "Did bonesmashing cause the jawline?",
+        "Did he get cosmetic surgery?",
+        "How much is weight management responsible?",
+        "What about filters and lighting?",
+        "What did LadBible and UniladTech report?",
+        "How does this compare to other looksmaxxing transformations?",
+        "Could a young man replicate this look?",
+        "Did Clavicular admit to surgery?",
+        "Is the before/after format misleading?"
+      ],
+      "fingerprint": "What does Clavicular look like before vs after? | Did bonesmashing cause the jawline? | Did he get cosmetic surgery? | How much is weight management responsible? | What about filters and lighting? | What did LadBible and UniladTech report? | How does this compare to other looksmaxxing transformations? | Could a young man replicate this look? | Did Clavicular admit to surgery? | Is the before/after format misleading?",
+      "titleOverlap": 0.75,
+      "bodyOverlap": 0.665,
+      "titleTerms": [
+        "clavicular",
+        "photos",
+        "actually",
+        "show"
+      ],
+      "titleHits": [
+        "clavicular",
+        "photos",
+        "show"
+      ],
+      "markdownLeak": true,
+      "bodyWords": 832,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/clavicular-girlfriend-violet-lentz/",
+      "title": "Who Is Clavicular's Girlfriend? Violet Lentz, the Jenny Popach Fight, and the 'Dating Three' Claim",
+      "cluster": "trending deep-dive",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "Who is Clavicular's girlfriend?",
+        "What happened with Jenny Popach?",
+        "Did Clavicular cheat on Violet Lentz?",
+        "Did Clavicular break up with Violet?",
+        "Was the Popach fight real?",
+        "Who is Jenny Popach?",
+        "Is Violet Lentz also a streamer?",
+        "Is the 'dating three' claim believable?",
+        "Did the relationship affect his platform bans?",
+        "Why does this matter beyond drama?"
+      ],
+      "fingerprint": "Who is Clavicular's girlfriend? | What happened with Jenny Popach? | Did Clavicular cheat on Violet Lentz? | Did Clavicular break up with Violet? | Was the Popach fight real? | Who is Jenny Popach? | Is Violet Lentz also a streamer? | Is the 'dating three' claim believable? | Did the relationship affect his platform bans? | Why does this matter beyond drama?",
+      "titleOverlap": 1,
+      "bodyOverlap": 0.641,
+      "titleTerms": [
+        "clavicular's",
+        "girlfriend",
+        "violet",
+        "lentz",
+        "jenny",
+        "popach",
+        "fight",
+        "dating",
+        "three'",
+        "claim"
+      ],
+      "titleHits": [
+        "clavicular's",
+        "girlfriend",
+        "violet",
+        "lentz",
+        "jenny",
+        "popach",
+        "fight",
+        "dating",
+        "three'",
+        "claim"
+      ],
+      "markdownLeak": true,
+      "bodyWords": 627,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/clavicular-hammer-bonesmashing-routine/",
+      "title": "Clavicular's Hammer Routine: What He Told Impaulsive About Bonesmashing",
+      "cluster": "trending deep-dive",
+      "hasFaq": true,
+      "faqCount": 9,
+      "questions": [
+        "What did Clavicular say on Impaulsive?",
+        "Did the hammer routine work?",
+        "Why is the retelling dangerous?",
+        "What does bonesmashing actually do to the face?",
+        "Are facial bones supposed to change shape under stress?",
+        "Did Logan Paul push back?",
+        "Is this kind of self-injury common in looksmaxxing?",
+        "What should I do if my son mentions Clavicular's hammer thing?",
+        "Has Clavicular continued doing this?"
+      ],
+      "fingerprint": "What did Clavicular say on Impaulsive? | Did the hammer routine work? | Why is the retelling dangerous? | What does bonesmashing actually do to the face? | Are facial bones supposed to change shape under stress? | Did Logan Paul push back? | Is this kind of self-injury common in looksmaxxing? | What should I do if my son mentions Clavicular's hammer thing? | Has Clavicular continued doing this?",
+      "titleOverlap": 1,
+      "bodyOverlap": 0.721,
+      "titleTerms": [
+        "clavicular's",
+        "hammer",
+        "routine",
+        "told",
+        "impaulsive",
+        "bonesmashing"
+      ],
+      "titleHits": [
+        "clavicular's",
+        "hammer",
+        "routine",
+        "told",
+        "impaulsive",
+        "bonesmashing"
+      ],
+      "markdownLeak": true,
+      "bodyWords": 902,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/clavicular-height-stats/",
+      "title": "Clavicular's Height, Stats, and Physical Profile",
+      "cluster": "trending deep-dive",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "How tall is Clavicular?",
+        "How much does Clavicular weigh?",
+        "What is Clavicular's build?",
+        "Does he lift weights?",
+        "Did he get taller using growth-related supplements?",
+        "What's his eye color?",
+        "What's his hair color?",
+        "Does he have surgery scars?",
+        "How big are his clavicles?",
+        "Where can I find more accurate stats?"
+      ],
+      "fingerprint": "How tall is Clavicular? | How much does Clavicular weigh? | What is Clavicular's build? | Does he lift weights? | Did he get taller using growth-related supplements? | What's his eye color? | What's his hair color? | Does he have surgery scars? | How big are his clavicles? | Where can I find more accurate stats?",
+      "titleOverlap": 0.8,
+      "bodyOverlap": 0.538,
+      "titleTerms": [
+        "clavicular's",
+        "height",
+        "stats",
+        "physical",
+        "profile"
+      ],
+      "titleHits": [
+        "clavicular's",
+        "height",
+        "stats",
+        "physical"
+      ],
+      "markdownLeak": true,
+      "bodyWords": 471,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/clavicular-net-worth-kick-earnings/",
+      "title": "Clavicular Net Worth and Kick Earnings: What $100K a Month Looked Like",
+      "cluster": "trending deep-dive",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "What is Clavicular's net worth?",
+        "How much did he earn on Kick?",
+        "How does Kick make streamers money?",
+        "Did the ban cost him money?",
+        "What about TikTok ad revenue?",
+        "Does he have sponsorship deals?",
+        "How does this compare to other top streamers?",
+        "What happens to the money after a ban?",
+        "Will he be able to rebuild on another platform?",
+        "Is the net worth from looksmaxxing content specifically?"
+      ],
+      "fingerprint": "What is Clavicular's net worth? | How much did he earn on Kick? | How does Kick make streamers money? | Did the ban cost him money? | What about TikTok ad revenue? | Does he have sponsorship deals? | How does this compare to other top streamers? | What happens to the money after a ban? | Will he be able to rebuild on another platform? | Is the net worth from looksmaxxing content specifically?",
+      "titleOverlap": 0.667,
+      "bodyOverlap": 0.514,
+      "titleTerms": [
+        "clavicular",
+        "net",
+        "worth",
+        "kick",
+        "earnings",
+        "100k",
+        "month",
+        "looked",
+        "like"
+      ],
+      "titleHits": [
+        "clavicular",
+        "net",
+        "worth",
+        "kick",
+        "earnings",
+        "month"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 713,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/clavicular-overdose-pentastack-explained/",
+      "title": "What Was in Clavicular's 'Pentastack' — and Why It Almost Killed Him",
+      "cluster": "trending deep-dive",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "What is the 'pentastack' Clavicular was using?",
+        "What happened to Clavicular?",
+        "Why is this combination so dangerous?",
+        "Is 1,4-butanediol the same as GHB?",
+        "Does this make Clavicular's looksmaxxing advice unreliable?",
+        "Was anyone else involved?",
+        "What should I do if I see someone overdosing on stream?",
+        "Did the platforms respond?",
+        "Is this a one-off or a pattern in the looksmaxxing space?",
+        "Where can I get help for polydrug use?"
+      ],
+      "fingerprint": "What is the 'pentastack' Clavicular was using? | What happened to Clavicular? | Why is this combination so dangerous? | Is 1,4-butanediol the same as GHB? | Does this make Clavicular's looksmaxxing advice unreliable? | Was anyone else involved? | What should I do if I see someone overdosing on stream? | Did the platforms respond? | Is this a one-off or a pattern in the looksmaxxing space? | Where can I get help for polydrug use?",
+      "titleOverlap": 0.5,
+      "bodyOverlap": 0.616,
+      "titleTerms": [
+        "clavicular's",
+        "pentastack'",
+        "almost",
+        "killed"
+      ],
+      "titleHits": [
+        "clavicular's",
+        "pentastack'"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 835,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/clavicular-psl-system-explained/",
+      "title": "The PSL System Clavicular Uses: Subhuman, Normie, Chad — Explained",
+      "cluster": "glossary culture",
+      "hasFaq": true,
+      "faqCount": 9,
+      "questions": [
+        "What does PSL stand for?",
+        "What are the tiers in Clavicular's PSL system?",
+        "What measurements does the PSL framework use?",
+        "Is the PSL framework scientifically valid?",
+        "Why is PSL controversial?",
+        "Can you change your PSL rating?",
+        "Is Clavicular's PSL analysis different from QOVES Studio's?",
+        "Should I get a PSL rating?",
+        "What are the limits of PSL framework?"
+      ],
+      "fingerprint": "What does PSL stand for? | What are the tiers in Clavicular's PSL system? | What measurements does the PSL framework use? | Is the PSL framework scientifically valid? | Why is PSL controversial? | Can you change your PSL rating? | Is Clavicular's PSL analysis different from QOVES Studio's? | Should I get a PSL rating? | What are the limits of PSL framework?",
+      "titleOverlap": 0.5,
+      "bodyOverlap": 0.695,
+      "titleTerms": [
+        "psl",
+        "system",
+        "clavicular",
+        "uses",
+        "subhuman",
+        "normie",
+        "chad",
+        "explained"
+      ],
+      "titleHits": [
+        "psl",
+        "system",
+        "clavicular",
+        "uses"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 861,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/clavicular-real-name-age-bio/",
+      "title": "Clavicular's Real Name, Age, and Origin: Who Is Braden Eric Peters?",
+      "cluster": "trending deep-dive",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "What is Clavicular's real name?",
+        "How old is Clavicular?",
+        "Where is he from?",
+        "When did he start streaming?",
+        "Why is he called Clavicular?",
+        "How did he build his audience?",
+        "Is the Grok summary of him accurate?",
+        "What was his original YouTube channel called?",
+        "Did he go to college?",
+        "Is he still streaming?"
+      ],
+      "fingerprint": "What is Clavicular's real name? | How old is Clavicular? | Where is he from? | When did he start streaming? | Why is he called Clavicular? | How did he build his audience? | Is the Grok summary of him accurate? | What was his original YouTube channel called? | Did he go to college? | Is he still streaming?",
+      "titleOverlap": 0.875,
+      "bodyOverlap": 0.665,
+      "titleTerms": [
+        "clavicular's",
+        "real",
+        "name",
+        "age",
+        "origin",
+        "braden",
+        "eric",
+        "peters"
+      ],
+      "titleHits": [
+        "clavicular's",
+        "real",
+        "name",
+        "origin",
+        "braden",
+        "eric",
+        "peters"
+      ],
+      "markdownLeak": true,
+      "bodyWords": 746,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/clavicular-trt-at-14-claim/",
+      "title": "Clavicular's TRT-at-14 Claim: What the Medical Literature Actually Says",
+      "cluster": "trending deep-dive",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "Did Clavicular really start TRT at 14?",
+        "What does TRT do to a 14-year-old?",
+        "Is this reversible?",
+        "Why would anyone start TRT at 14?",
+        "What does CalfKicker mean by 'neutered himself'?",
+        "Is this happening in the broader looksmaxxing community?",
+        "What should a parent do if their son is asking about TRT?",
+        "Is there ever a medical reason for adolescent TRT?",
+        "Does this affect height?",
+        "Where can I get help?"
+      ],
+      "fingerprint": "Did Clavicular really start TRT at 14? | What does TRT do to a 14-year-old? | Is this reversible? | Why would anyone start TRT at 14? | What does CalfKicker mean by 'neutered himself'? | Is this happening in the broader looksmaxxing community? | What should a parent do if their son is asking about TRT? | Is there ever a medical reason for adolescent TRT? | Does this affect height? | Where can I get help?",
+      "titleOverlap": 0.286,
+      "bodyOverlap": 0.571,
+      "titleTerms": [
+        "clavicular's",
+        "trt-at-14",
+        "claim",
+        "medical",
+        "literature",
+        "actually",
+        "says"
+      ],
+      "titleHits": [
+        "claim",
+        "medical"
+      ],
+      "markdownLeak": true,
+      "bodyWords": 853,
+      "offTopic": true
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/clavicular-youtube-ban-timeline/",
+      "title": "Clavicular's Platform Ban Timeline: YouTube, Kick, and Everything In Between",
+      "cluster": "trending deep-dive",
+      "hasFaq": true,
+      "faqCount": 9,
+      "questions": [
+        "Is Clavicular banned from YouTube?",
+        "Why was Clavicular banned from YouTube the first time?",
+        "Why was Clavicular banned from Kick?",
+        "Is he still on TikTok?",
+        "What does YouTube mean by 'severe or repeated violations'?",
+        "Can Clavicular come back to YouTube?",
+        "Did the overdose change anything?",
+        "Where else has he been banned?",
+        "What does this mean for other looksmaxxing creators?"
+      ],
+      "fingerprint": "Is Clavicular banned from YouTube? | Why was Clavicular banned from YouTube the first time? | Why was Clavicular banned from Kick? | Is he still on TikTok? | What does YouTube mean by 'severe or repeated violations'? | Can Clavicular come back to YouTube? | Did the overdose change anything? | Where else has he been banned? | What does this mean for other looksmaxxing creators?",
+      "titleOverlap": 0.5,
+      "bodyOverlap": 0.59,
+      "titleTerms": [
+        "clavicular's",
+        "platform",
+        "ban",
+        "timeline",
+        "youtube",
+        "kick",
+        "everything",
+        "between"
+      ],
+      "titleHits": [
+        "platform",
+        "ban",
+        "youtube",
+        "kick"
+      ],
+      "markdownLeak": true,
+      "bodyWords": 702,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/complete-looksmaxxing-guide/",
+      "title": "The Complete Looksmaxxing Guide for 2026",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "What is looksmaxxing?",
+        "Is looksmaxxing safe?",
+        "How long does looksmaxxing take to show results?",
+        "What is the difference between softmaxxing and hardmaxxing?",
+        "Can anyone looksmax?",
+        "What should I start with for looksmaxxing?",
+        "How much does looksmaxxing cost?",
+        "Is looksmaxxing only for men?",
+        "What is a PSL rating?",
+        "Does looksmaxxing actually work?"
+      ],
+      "fingerprint": "What is looksmaxxing? | Is looksmaxxing safe? | How long does looksmaxxing take to show results? | What is the difference between softmaxxing and hardmaxxing? | Can anyone looksmax? | What should I start with for looksmaxxing? | How much does looksmaxxing cost? | Is looksmaxxing only for men? | What is a PSL rating? | Does looksmaxxing actually work?",
+      "titleOverlap": 0.25,
+      "bodyOverlap": 0.493,
+      "titleTerms": [
+        "complete",
+        "looksmaxxing",
+        "guide",
+        "2026"
+      ],
+      "titleHits": [
+        "looksmaxxing"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 1364,
+      "offTopic": true
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/creators-like-clavicular-without-blackpill/",
+      "title": "Creators Like Clavicular But Without the Blackpill: Where to Get the Analysis Without the Doom",
+      "cluster": "demographics",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "Who is the best alternative to Clavicular?",
+        "Is QOVES Studio actually clinical?",
+        "Why is Dr. Anthony Youn different?",
+        "Who is Dr. Michael Mrozinski?",
+        "What about Dillon Latham?",
+        "Who is 1stMan?",
+        "Can I get the same depth without the harm?",
+        "Should I unfollow Clavicular?",
+        "Are there positive female-led creators in this lane?",
+        "Where else can I find evidence-based analysis?"
+      ],
+      "fingerprint": "Who is the best alternative to Clavicular? | Is QOVES Studio actually clinical? | Why is Dr. Anthony Youn different? | Who is Dr. Michael Mrozinski? | What about Dillon Latham? | Who is 1stMan? | Can I get the same depth without the harm? | Should I unfollow Clavicular? | Are there positive female-led creators in this lane? | Where else can I find evidence-based analysis?",
+      "titleOverlap": 0.667,
+      "bodyOverlap": 0.564,
+      "titleTerms": [
+        "creators",
+        "like",
+        "clavicular",
+        "blackpill",
+        "analysis",
+        "doom"
+      ],
+      "titleHits": [
+        "creators",
+        "clavicular",
+        "blackpill",
+        "analysis"
+      ],
+      "markdownLeak": true,
+      "bodyWords": 768,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/daily-looksmaxxing-routine/",
+      "title": "The Daily Looksmaxxing Routine That Actually Works",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 8,
+      "questions": [
+        "Who is this guide for?",
+        "How often should I update my routine?",
+        "Can I combine multiple looksmaxxing routines?",
+        "What if I have sensitive skin?",
+        "How do I track my looksmaxxing progress?",
+        "Is this guide backed by science?",
+        "How long until I see results?",
+        "Do I need a professional to guide me?"
+      ],
+      "fingerprint": "Who is this guide for? | How often should I update my routine? | Can I combine multiple looksmaxxing routines? | What if I have sensitive skin? | How do I track my looksmaxxing progress? | Is this guide backed by science? | How long until I see results? | Do I need a professional to guide me?",
+      "titleOverlap": 0.6,
+      "bodyOverlap": 0.324,
+      "titleTerms": [
+        "daily",
+        "looksmaxxing",
+        "routine",
+        "actually",
+        "works"
+      ],
+      "titleHits": [
+        "looksmaxxing",
+        "routine",
+        "works"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 687,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/does-mewing-work/",
+      "title": "Does Mewing Actually Work? Evidence Review",
+      "cluster": "glossary culture",
+      "hasFaq": true,
+      "faqCount": 8,
+      "questions": [
+        "Where did this term originate?",
+        "Is this term used seriously?",
+        "Should I use this terminology?",
+        "Is the concept behind this term scientifically valid?",
+        "How has this term evolved over time?",
+        "Are these terms used globally?",
+        "What is the most misunderstood looksmaxxing term?",
+        "Where can I learn more looksmaxxing terminology?"
+      ],
+      "fingerprint": "Where did this term originate? | Is this term used seriously? | Should I use this terminology? | Is the concept behind this term scientifically valid? | How has this term evolved over time? | Are these terms used globally? | What is the most misunderstood looksmaxxing term? | Where can I learn more looksmaxxing terminology?",
+      "titleOverlap": 0.2,
+      "bodyOverlap": 0.231,
+      "titleTerms": [
+        "mewing",
+        "actually",
+        "work",
+        "evidence",
+        "review"
+      ],
+      "titleHits": [
+        "mewing"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 1211,
+      "offTopic": true
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/female-looksmaxxing/",
+      "title": "Female Looksmaxxing: The Quiet Rise of 'Stacey' Optimization",
+      "cluster": "demographics",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "What is female looksmaxxing?",
+        "What is a 'Stacey' in looksmaxxing terms?",
+        "How is female looksmaxxing different from male looksmaxxing?",
+        "Are there AI apps that rate women's faces?",
+        "What procedures dominate female looksmaxxing?",
+        "Is female looksmaxxing more or less dangerous than the male version?",
+        "What is 'starvemaxxing'?",
+        "Does looksmaxxing for women actually work?",
+        "Where did 'Stacey' culture come from?",
+        "What should I do if my teenage daughter is using looksmaxxing apps?"
+      ],
+      "fingerprint": "What is female looksmaxxing? | What is a 'Stacey' in looksmaxxing terms? | How is female looksmaxxing different from male looksmaxxing? | Are there AI apps that rate women's faces? | What procedures dominate female looksmaxxing? | Is female looksmaxxing more or less dangerous than the male version? | What is 'starvemaxxing'? | Does looksmaxxing for women actually work? | Where did 'Stacey' culture come from? | What should I do if my teenage daughter is using looksmaxxing apps?",
+      "titleOverlap": 0.667,
+      "bodyOverlap": 0.531,
+      "titleTerms": [
+        "female",
+        "looksmaxxing",
+        "quiet",
+        "rise",
+        "stacey'",
+        "optimization"
+      ],
+      "titleHits": [
+        "female",
+        "looksmaxxing",
+        "stacey'",
+        "optimization"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 1136,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/hair-transplant-looksmaxxing/",
+      "title": "Hair Transplants for Looksmaxxing — What to Expect",
+      "cluster": "surgery",
+      "hasFaq": true,
+      "faqCount": 8,
+      "questions": [
+        "Is this procedure worth the cost?",
+        "What is the recovery time?",
+        "How do I find a qualified surgeon?",
+        "What are the risks?",
+        "Can I finance the procedure?",
+        "How do I prepare for surgery?",
+        "Will the results look natural?",
+        "What if I am not happy with the results?"
+      ],
+      "fingerprint": "Is this procedure worth the cost? | What is the recovery time? | How do I find a qualified surgeon? | What are the risks? | Can I finance the procedure? | How do I prepare for surgery? | Will the results look natural? | What if I am not happy with the results?",
+      "titleOverlap": 0,
+      "bodyOverlap": 0.336,
+      "titleTerms": [
+        "hair",
+        "transplants",
+        "looksmaxxing",
+        "expect"
+      ],
+      "titleHits": [],
+      "markdownLeak": false,
+      "bodyWords": 913,
+      "offTopic": true
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/hunter-eyes-explained/",
+      "title": "Hunter Eyes Explained — What They Are and Can You Get Them?",
+      "cluster": "body part",
+      "hasFaq": true,
+      "faqCount": 8,
+      "questions": [
+        "Can I really improve this area without surgery?",
+        "How long do non-surgical improvements take?",
+        "What exercises help?",
+        "Should I consider cosmetic procedures?",
+        "Does genetics determine everything?",
+        "What is the most cost-effective improvement?",
+        "Are before-and-after photos reliable?",
+        "When should I see a specialist?"
+      ],
+      "fingerprint": "Can I really improve this area without surgery? | How long do non-surgical improvements take? | What exercises help? | Should I consider cosmetic procedures? | Does genetics determine everything? | What is the most cost-effective improvement? | Are before-and-after photos reliable? | When should I see a specialist?",
+      "titleOverlap": 0,
+      "bodyOverlap": 0.268,
+      "titleTerms": [
+        "hunter",
+        "eyes",
+        "explained"
+      ],
+      "titleHits": [],
+      "markdownLeak": false,
+      "bodyWords": 861,
+      "offTopic": true
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/if-your-son-watches-clavicular/",
+      "title": "If Your Son Watches Clavicular: A Parent's Specific Guide",
+      "cluster": "demographics",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "My son mentioned Clavicular. Should I be worried?",
+        "What specifically about Clavicular makes him different from other looksmaxxing creators?",
+        "How old is the Clavicular audience?",
+        "What are the specific warning signs?",
+        "Should I ban Clavicular content?",
+        "Should I tell him about the overdose and the bans?",
+        "What if he says 'Clavicular's content saved my life'?",
+        "When do I bring in a professional?",
+        "Are there positive alternatives I can recommend?",
+        "What if I'm too late and he's already injured?"
+      ],
+      "fingerprint": "My son mentioned Clavicular. Should I be worried? | What specifically about Clavicular makes him different from other looksmaxxing creators? | How old is the Clavicular audience? | What are the specific warning signs? | Should I ban Clavicular content? | Should I tell him about the overdose and the bans? | What if he says 'Clavicular's content saved my life'? | When do I bring in a professional? | Are there positive alternatives I can recommend? | What if I'm too late and he's already injured?",
+      "titleOverlap": 0.5,
+      "bodyOverlap": 0.555,
+      "titleTerms": [
+        "son",
+        "watches",
+        "clavicular",
+        "parent's",
+        "specific",
+        "guide"
+      ],
+      "titleHits": [
+        "son",
+        "clavicular",
+        "specific"
+      ],
+      "markdownLeak": true,
+      "bodyWords": 877,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/is-bonesmashing-dangerous/",
+      "title": "Is Bonesmashing Dangerous? Here's What We Know",
+      "cluster": "glossary culture",
+      "hasFaq": true,
+      "faqCount": 8,
+      "questions": [
+        "Where did this term originate?",
+        "Is this term used seriously?",
+        "Should I use this terminology?",
+        "Is the concept behind this term scientifically valid?",
+        "How has this term evolved over time?",
+        "Are these terms used globally?",
+        "What is the most misunderstood looksmaxxing term?",
+        "Where can I learn more looksmaxxing terminology?"
+      ],
+      "fingerprint": "Where did this term originate? | Is this term used seriously? | Should I use this terminology? | Is the concept behind this term scientifically valid? | How has this term evolved over time? | Are these terms used globally? | What is the most misunderstood looksmaxxing term? | Where can I learn more looksmaxxing terminology?",
+      "titleOverlap": 0.5,
+      "bodyOverlap": 0.231,
+      "titleTerms": [
+        "bonesmashing",
+        "dangerous",
+        "here's",
+        "know"
+      ],
+      "titleHits": [
+        "bonesmashing",
+        "dangerous"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 1141,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/is-clavicular-banned-everywhere/",
+      "title": "Is Clavicular Banned Everywhere? Live Platform Status (May 2026)",
+      "cluster": "trending deep-dive",
+      "hasFaq": true,
+      "faqCount": 9,
+      "questions": [
+        "Is Clavicular banned on YouTube?",
+        "Is Clavicular banned on Kick?",
+        "Is Clavicular on TikTok?",
+        "Is Clavicular on X (Twitter)?",
+        "Is he on Twitch?",
+        "Is he on Rumble?",
+        "When was the most recent ban?",
+        "Are his old videos still available?",
+        "Where is he posting now?"
+      ],
+      "fingerprint": "Is Clavicular banned on YouTube? | Is Clavicular banned on Kick? | Is Clavicular on TikTok? | Is Clavicular on X (Twitter)? | Is he on Twitch? | Is he on Rumble? | When was the most recent ban? | Are his old videos still available? | Where is he posting now?",
+      "titleOverlap": 0.714,
+      "bodyOverlap": 0.54,
+      "titleTerms": [
+        "clavicular",
+        "banned",
+        "everywhere",
+        "live",
+        "platform",
+        "status",
+        "2026"
+      ],
+      "titleHits": [
+        "clavicular",
+        "banned",
+        "platform",
+        "status",
+        "2026"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 354,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/is-looksmaxxing-real/",
+      "title": "Is Looksmaxxing Real? What Science Actually Says",
+      "cluster": "comparison",
+      "hasFaq": true,
+      "faqCount": 8,
+      "questions": [
+        "What is the main difference covered in this comparison?",
+        "Which approach is better for beginners?",
+        "Can I combine both approaches?",
+        "How do I know which one is right for me?",
+        "What do experts recommend?",
+        "Are the results permanent?",
+        "What are the risks of each approach?",
+        "How much does each approach cost?"
+      ],
+      "fingerprint": "What is the main difference covered in this comparison? | Which approach is better for beginners? | Can I combine both approaches? | How do I know which one is right for me? | What do experts recommend? | Are the results permanent? | What are the risks of each approach? | How much does each approach cost?",
+      "titleOverlap": 0.6,
+      "bodyOverlap": 0.31,
+      "titleTerms": [
+        "looksmaxxing",
+        "real",
+        "science",
+        "actually",
+        "says"
+      ],
+      "titleHits": [
+        "looksmaxxing",
+        "real",
+        "actually"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 871,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/looksmaxxing-ai-rating-tools-compared/",
+      "title": "Looksmaxxing AI Rating Tools — Which Ones Are Worth It?",
+      "cluster": "ai tools",
+      "hasFaq": true,
+      "faqCount": 8,
+      "questions": [
+        "Are AI looksmaxxing tools accurate?",
+        "Which AI rating tool is the most reliable?",
+        "Can ChatGPT rate my appearance?",
+        "Are these tools free?",
+        "Do AI tools work for all ethnicities?",
+        "Can AI suggest specific improvements?",
+        "How often should I use rating tools?",
+        "Is my data safe with these tools?"
+      ],
+      "fingerprint": "Are AI looksmaxxing tools accurate? | Which AI rating tool is the most reliable? | Can ChatGPT rate my appearance? | Are these tools free? | Do AI tools work for all ethnicities? | Can AI suggest specific improvements? | How often should I use rating tools? | Is my data safe with these tools?",
+      "titleOverlap": 0.6,
+      "bodyOverlap": 0.419,
+      "titleTerms": [
+        "looksmaxxing",
+        "rating",
+        "tools",
+        "ones",
+        "worth"
+      ],
+      "titleHits": [
+        "looksmaxxing",
+        "rating",
+        "tools"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 930,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/looksmaxxing-dangers-doctors-warn/",
+      "title": "What Doctors Want You to Know About Looksmaxxing: The Real Risks",
+      "cluster": "trending deep-dive",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "What are the main dangers of looksmaxxing?",
+        "What is 'boy kibble'?",
+        "How young are the boys affected by this?",
+        "Why are doctors suddenly speaking up about this in 2026?",
+        "Is plastic surgery for looksmaxxing dangerous?",
+        "Does bonesmashing work?",
+        "What's the connection between looksmaxxing and eating disorders?",
+        "Are looksmaxxing supplements dangerous?",
+        "When should a parent seek professional help for a looksmaxxing-affected teen?",
+        "Is hardmaxxing reversible?"
+      ],
+      "fingerprint": "What are the main dangers of looksmaxxing? | What is 'boy kibble'? | How young are the boys affected by this? | Why are doctors suddenly speaking up about this in 2026? | Is plastic surgery for looksmaxxing dangerous? | Does bonesmashing work? | What's the connection between looksmaxxing and eating disorders? | Are looksmaxxing supplements dangerous? | When should a parent seek professional help for a looksmaxxing-affected teen? | Is hardmaxxing reversible?",
+      "titleOverlap": 0.667,
+      "bodyOverlap": 0.62,
+      "titleTerms": [
+        "doctors",
+        "want",
+        "know",
+        "looksmaxxing",
+        "real",
+        "risks"
+      ],
+      "titleHits": [
+        "doctors",
+        "looksmaxxing",
+        "real",
+        "risks"
+      ],
+      "markdownLeak": true,
+      "bodyWords": 1118,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/looksmaxxing-for-beginners/",
+      "title": "Looksmaxxing for Beginners — Where to Start",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 8,
+      "questions": [
+        "Where do I start with looksmaxxing as a complete beginner?",
+        "What is the easiest looksmaxxing win?",
+        "Do I need expensive products to looksmax?",
+        "How often should I work out for looksmaxxing?",
+        "What looksmaxxing results can I expect in 30 days?",
+        "Is mewing a good starting point?",
+        "What should I eat for looksmaxxing?",
+        "Can looksmaxxing improve my confidence?"
+      ],
+      "fingerprint": "Where do I start with looksmaxxing as a complete beginner? | What is the easiest looksmaxxing win? | Do I need expensive products to looksmax? | How often should I work out for looksmaxxing? | What looksmaxxing results can I expect in 30 days? | Is mewing a good starting point? | What should I eat for looksmaxxing? | Can looksmaxxing improve my confidence?",
+      "titleOverlap": 0.667,
+      "bodyOverlap": 0.463,
+      "titleTerms": [
+        "looksmaxxing",
+        "beginners",
+        "start"
+      ],
+      "titleHits": [
+        "looksmaxxing",
+        "start"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 656,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/looksmaxxing-for-black-men/",
+      "title": "Looksmaxxing for Black Men — Tailored Advice",
+      "cluster": "demographics",
+      "hasFaq": true,
+      "faqCount": 8,
+      "questions": [
+        "Is looksmaxxing different for different demographics?",
+        "Are product recommendations universal?",
+        "Does age matter for looksmaxxing?",
+        "Where can I find tailored advice?",
+        "How do cultural standards affect looksmaxxing?",
+        "Is it too late to start in my 30s or 40s?",
+        "Should I follow the same routine as influencers?",
+        "What is the most impactful change at any age?"
+      ],
+      "fingerprint": "Is looksmaxxing different for different demographics? | Are product recommendations universal? | Does age matter for looksmaxxing? | Where can I find tailored advice? | How do cultural standards affect looksmaxxing? | Is it too late to start in my 30s or 40s? | Should I follow the same routine as influencers? | What is the most impactful change at any age?",
+      "titleOverlap": 0.8,
+      "bodyOverlap": 0.347,
+      "titleTerms": [
+        "looksmaxxing",
+        "black",
+        "men",
+        "tailored",
+        "advice"
+      ],
+      "titleHits": [
+        "looksmaxxing",
+        "men",
+        "tailored",
+        "advice"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 1108,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/looksmaxxing-glossary/",
+      "title": "Looksmaxxing Glossary 2026: Dictionary of Slang and Terms",
+      "cluster": "glossary culture",
+      "hasFaq": true,
+      "faqCount": 8,
+      "questions": [
+        "Where did this term originate?",
+        "Is this term used seriously?",
+        "Should I use this terminology?",
+        "Is the concept behind this term scientifically valid?",
+        "How has this term evolved over time?",
+        "Are these terms used globally?",
+        "What is the most misunderstood looksmaxxing term?",
+        "Where can I learn more looksmaxxing terminology?"
+      ],
+      "fingerprint": "Where did this term originate? | Is this term used seriously? | Should I use this terminology? | Is the concept behind this term scientifically valid? | How has this term evolved over time? | Are these terms used globally? | What is the most misunderstood looksmaxxing term? | Where can I learn more looksmaxxing terminology?",
+      "titleOverlap": 0.5,
+      "bodyOverlap": 0.419,
+      "titleTerms": [
+        "looksmaxxing",
+        "glossary",
+        "2026",
+        "dictionary",
+        "slang",
+        "terms"
+      ],
+      "titleHits": [
+        "looksmaxxing",
+        "glossary",
+        "terms"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 1208,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/looksmaxxing-gpt-accuracy/",
+      "title": "Can ChatGPT Rate Your Looks? Testing AI Accuracy",
+      "cluster": "ai tools",
+      "hasFaq": true,
+      "faqCount": 8,
+      "questions": [
+        "Are AI looksmaxxing tools accurate?",
+        "Which AI rating tool is the most reliable?",
+        "Can ChatGPT rate my appearance?",
+        "Are these tools free?",
+        "Do AI tools work for all ethnicities?",
+        "Can AI suggest specific improvements?",
+        "How often should I use rating tools?",
+        "Is my data safe with these tools?"
+      ],
+      "fingerprint": "Are AI looksmaxxing tools accurate? | Which AI rating tool is the most reliable? | Can ChatGPT rate my appearance? | Are these tools free? | Do AI tools work for all ethnicities? | Can AI suggest specific improvements? | How often should I use rating tools? | Is my data safe with these tools?",
+      "titleOverlap": 0.4,
+      "bodyOverlap": 0.479,
+      "titleTerms": [
+        "chatgpt",
+        "rate",
+        "looks",
+        "testing",
+        "accuracy"
+      ],
+      "titleHits": [
+        "chatgpt",
+        "rate"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 915,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/looksmaxxing-haircuts/",
+      "title": "Best Looksmaxxing Haircuts for Your Face Shape",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 8,
+      "questions": [
+        "Who is this guide for?",
+        "How often should I update my routine?",
+        "Can I combine multiple looksmaxxing routines?",
+        "What if I have sensitive skin?",
+        "How do I track my looksmaxxing progress?",
+        "Is this guide backed by science?",
+        "How long until I see results?",
+        "Do I need a professional to guide me?"
+      ],
+      "fingerprint": "Who is this guide for? | How often should I update my routine? | Can I combine multiple looksmaxxing routines? | What if I have sensitive skin? | How do I track my looksmaxxing progress? | Is this guide backed by science? | How long until I see results? | Do I need a professional to guide me?",
+      "titleOverlap": 0.8,
+      "bodyOverlap": 0.382,
+      "titleTerms": [
+        "best",
+        "looksmaxxing",
+        "haircuts",
+        "face",
+        "shape"
+      ],
+      "titleHits": [
+        "best",
+        "looksmaxxing",
+        "face",
+        "shape"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 1001,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/looksmaxxing-in-your-30s-40s/",
+      "title": "Looksmaxxing in Your 30s and 40s — It's Not Too Late",
+      "cluster": "demographics",
+      "hasFaq": true,
+      "faqCount": 8,
+      "questions": [
+        "Is looksmaxxing different for different demographics?",
+        "Are product recommendations universal?",
+        "Does age matter for looksmaxxing?",
+        "Where can I find tailored advice?",
+        "How do cultural standards affect looksmaxxing?",
+        "Is it too late to start in my 30s or 40s?",
+        "Should I follow the same routine as influencers?",
+        "What is the most impactful change at any age?"
+      ],
+      "fingerprint": "Is looksmaxxing different for different demographics? | Are product recommendations universal? | Does age matter for looksmaxxing? | Where can I find tailored advice? | How do cultural standards affect looksmaxxing? | Is it too late to start in my 30s or 40s? | Should I follow the same routine as influencers? | What is the most impactful change at any age?",
+      "titleOverlap": 0.8,
+      "bodyOverlap": 0.492,
+      "titleTerms": [
+        "looksmaxxing",
+        "30s",
+        "40s",
+        "it's",
+        "late"
+      ],
+      "titleHits": [
+        "looksmaxxing",
+        "30s",
+        "40s",
+        "late"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 1039,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/looksmaxxing-jawline/",
+      "title": "Looksmaxxing Your Jawline — What Actually Works",
+      "cluster": "body part",
+      "hasFaq": true,
+      "faqCount": 8,
+      "questions": [
+        "Can I really improve this area without surgery?",
+        "How long do non-surgical improvements take?",
+        "What exercises help?",
+        "Should I consider cosmetic procedures?",
+        "Does genetics determine everything?",
+        "What is the most cost-effective improvement?",
+        "Are before-and-after photos reliable?",
+        "When should I see a specialist?"
+      ],
+      "fingerprint": "Can I really improve this area without surgery? | How long do non-surgical improvements take? | What exercises help? | Should I consider cosmetic procedures? | Does genetics determine everything? | What is the most cost-effective improvement? | Are before-and-after photos reliable? | When should I see a specialist?",
+      "titleOverlap": 0,
+      "bodyOverlap": 0.333,
+      "titleTerms": [
+        "looksmaxxing",
+        "jawline",
+        "actually",
+        "works"
+      ],
+      "titleHits": [],
+      "markdownLeak": false,
+      "bodyWords": 741,
+      "offTopic": true
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/looksmaxxing-nose/",
+      "title": "Looksmaxxing Your Nose — Non-Surgical Options",
+      "cluster": "body part",
+      "hasFaq": true,
+      "faqCount": 8,
+      "questions": [
+        "Can I really improve this area without surgery?",
+        "How long do non-surgical improvements take?",
+        "What exercises help?",
+        "Should I consider cosmetic procedures?",
+        "Does genetics determine everything?",
+        "What is the most cost-effective improvement?",
+        "Are before-and-after photos reliable?",
+        "When should I see a specialist?"
+      ],
+      "fingerprint": "Can I really improve this area without surgery? | How long do non-surgical improvements take? | What exercises help? | Should I consider cosmetic procedures? | Does genetics determine everything? | What is the most cost-effective improvement? | Are before-and-after photos reliable? | When should I see a specialist?",
+      "titleOverlap": 0.5,
+      "bodyOverlap": 0.325,
+      "titleTerms": [
+        "looksmaxxing",
+        "nose",
+        "non-surgical",
+        "options"
+      ],
+      "titleHits": [
+        "non-surgical",
+        "options"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 959,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/looksmaxxing-skincare-products/",
+      "title": "Best Skincare Products for Looksmaxxing in 2026",
+      "cluster": "body part",
+      "hasFaq": true,
+      "faqCount": 8,
+      "questions": [
+        "Can I really improve this area without surgery?",
+        "How long do non-surgical improvements take?",
+        "What exercises help?",
+        "Should I consider cosmetic procedures?",
+        "Does genetics determine everything?",
+        "What is the most cost-effective improvement?",
+        "Are before-and-after photos reliable?",
+        "When should I see a specialist?"
+      ],
+      "fingerprint": "Can I really improve this area without surgery? | How long do non-surgical improvements take? | What exercises help? | Should I consider cosmetic procedures? | Does genetics determine everything? | What is the most cost-effective improvement? | Are before-and-after photos reliable? | When should I see a specialist?",
+      "titleOverlap": 0.2,
+      "bodyOverlap": 0.244,
+      "titleTerms": [
+        "best",
+        "skincare",
+        "products",
+        "looksmaxxing",
+        "2026"
+      ],
+      "titleHits": [
+        "skincare"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 940,
+      "offTopic": true
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/looksmaxxing-skincare-routine-men/",
+      "title": "The Looksmaxxing Skincare Routine for Men",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 8,
+      "questions": [
+        "Who is this guide for?",
+        "How often should I update my routine?",
+        "Can I combine multiple looksmaxxing routines?",
+        "What if I have sensitive skin?",
+        "How do I track my looksmaxxing progress?",
+        "Is this guide backed by science?",
+        "How long until I see results?",
+        "Do I need a professional to guide me?"
+      ],
+      "fingerprint": "Who is this guide for? | How often should I update my routine? | Can I combine multiple looksmaxxing routines? | What if I have sensitive skin? | How do I track my looksmaxxing progress? | Is this guide backed by science? | How long until I see results? | Do I need a professional to guide me?",
+      "titleOverlap": 1,
+      "bodyOverlap": 0.369,
+      "titleTerms": [
+        "looksmaxxing",
+        "skincare",
+        "routine",
+        "men"
+      ],
+      "titleHits": [
+        "looksmaxxing",
+        "skincare",
+        "routine",
+        "men"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 971,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/looksmaxxing-supplements/",
+      "title": "Looksmaxxing Supplements: What Works, What's Hype, What's Dangerous",
+      "cluster": "trending deep-dive",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "What supplements actually work for looksmaxxing?",
+        "Do testosterone boosters work?",
+        "Is creatine safe long-term?",
+        "What about collagen for skin?",
+        "Are 'mewing supplements' or 'jawline supplements' real?",
+        "What about NAD+ supplements?",
+        "Are SARMs a shortcut?",
+        "Should I take ashwagandha?",
+        "How much should I spend on supplements per month?",
+        "Are looksmaxxing supplements regulated?"
+      ],
+      "fingerprint": "What supplements actually work for looksmaxxing? | Do testosterone boosters work? | Is creatine safe long-term? | What about collagen for skin? | Are 'mewing supplements' or 'jawline supplements' real? | What about NAD+ supplements? | Are SARMs a shortcut? | Should I take ashwagandha? | How much should I spend on supplements per month? | Are looksmaxxing supplements regulated?",
+      "titleOverlap": 0.333,
+      "bodyOverlap": 0.706,
+      "titleTerms": [
+        "looksmaxxing",
+        "supplements",
+        "works",
+        "what's",
+        "hype",
+        "dangerous"
+      ],
+      "titleHits": [
+        "looksmaxxing",
+        "supplements"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 1188,
+      "offTopic": true
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/looksmaxxing-surgery-guide/",
+      "title": "Looksmaxxing Surgery — The Complete Guide",
+      "cluster": "surgery",
+      "hasFaq": true,
+      "faqCount": 8,
+      "questions": [
+        "Is this procedure worth the cost?",
+        "What is the recovery time?",
+        "How do I find a qualified surgeon?",
+        "What are the risks?",
+        "Can I finance the procedure?",
+        "How do I prepare for surgery?",
+        "Will the results look natural?",
+        "What if I am not happy with the results?"
+      ],
+      "fingerprint": "Is this procedure worth the cost? | What is the recovery time? | How do I find a qualified surgeon? | What are the risks? | Can I finance the procedure? | How do I prepare for surgery? | Will the results look natural? | What if I am not happy with the results?",
+      "titleOverlap": 0.25,
+      "bodyOverlap": 0.549,
+      "titleTerms": [
+        "looksmaxxing",
+        "surgery",
+        "complete",
+        "guide"
+      ],
+      "titleHits": [
+        "surgery"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 831,
+      "offTopic": true
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/looksmaxxing-surgery-turkey/",
+      "title": "Looksmaxxing Surgery in Turkey — Worth the Trip?",
+      "cluster": "surgery",
+      "hasFaq": true,
+      "faqCount": 8,
+      "questions": [
+        "Is this procedure worth the cost?",
+        "What is the recovery time?",
+        "How do I find a qualified surgeon?",
+        "What are the risks?",
+        "Can I finance the procedure?",
+        "How do I prepare for surgery?",
+        "Will the results look natural?",
+        "What if I am not happy with the results?"
+      ],
+      "fingerprint": "Is this procedure worth the cost? | What is the recovery time? | How do I find a qualified surgeon? | What are the risks? | Can I finance the procedure? | How do I prepare for surgery? | Will the results look natural? | What if I am not happy with the results?",
+      "titleOverlap": 0.4,
+      "bodyOverlap": 0.484,
+      "titleTerms": [
+        "looksmaxxing",
+        "surgery",
+        "turkey",
+        "worth",
+        "trip"
+      ],
+      "titleHits": [
+        "surgery",
+        "worth"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 985,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/looksmaxxing-vs-glow-up/",
+      "title": "Looksmaxxing vs Glow Up — Same Thing or Different?",
+      "cluster": "comparison",
+      "hasFaq": true,
+      "faqCount": 8,
+      "questions": [
+        "What is the main difference covered in this comparison?",
+        "Which approach is better for beginners?",
+        "Can I combine both approaches?",
+        "How do I know which one is right for me?",
+        "What do experts recommend?",
+        "Are the results permanent?",
+        "What are the risks of each approach?",
+        "How much does each approach cost?"
+      ],
+      "fingerprint": "What is the main difference covered in this comparison? | Which approach is better for beginners? | Can I combine both approaches? | How do I know which one is right for me? | What do experts recommend? | Are the results permanent? | What are the risks of each approach? | How much does each approach cost?",
+      "titleOverlap": 0.75,
+      "bodyOverlap": 0.339,
+      "titleTerms": [
+        "looksmaxxing",
+        "glow",
+        "thing",
+        "different"
+      ],
+      "titleHits": [
+        "looksmaxxing",
+        "glow",
+        "different"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 756,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/parents-guide-to-looksmaxxing/",
+      "title": "A Parent's Guide to Looksmaxxing: How to Talk to Your Son",
+      "cluster": "demographics",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "How common is looksmaxxing among teenage boys?",
+        "What age does looksmaxxing affect?",
+        "What are the warning signs my son is in the dangerous end of looksmaxxing?",
+        "How should I bring it up?",
+        "Should I just block the apps?",
+        "When should I get a professional involved?",
+        "Is it ever 'just a phase'?",
+        "What should I say if he mentions bonesmashing?",
+        "Are the influencers themselves dangerous?",
+        "What about positive influencers in this space?"
+      ],
+      "fingerprint": "How common is looksmaxxing among teenage boys? | What age does looksmaxxing affect? | What are the warning signs my son is in the dangerous end of looksmaxxing? | How should I bring it up? | Should I just block the apps? | When should I get a professional involved? | Is it ever 'just a phase'? | What should I say if he mentions bonesmashing? | Are the influencers themselves dangerous? | What about positive influencers in this space?",
+      "titleOverlap": 0.4,
+      "bodyOverlap": 0.678,
+      "titleTerms": [
+        "parent's",
+        "guide",
+        "looksmaxxing",
+        "talk",
+        "son"
+      ],
+      "titleHits": [
+        "looksmaxxing",
+        "son"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 1082,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/psl-rating-scale-explained/",
+      "title": "PSL Rating Scale Explained — What the Numbers Mean",
+      "cluster": "glossary culture",
+      "hasFaq": true,
+      "faqCount": 8,
+      "questions": [
+        "Where did this term originate?",
+        "Is this term used seriously?",
+        "Should I use this terminology?",
+        "Is the concept behind this term scientifically valid?",
+        "How has this term evolved over time?",
+        "Are these terms used globally?",
+        "What is the most misunderstood looksmaxxing term?",
+        "Where can I learn more looksmaxxing terminology?"
+      ],
+      "fingerprint": "Where did this term originate? | Is this term used seriously? | Should I use this terminology? | Is the concept behind this term scientifically valid? | How has this term evolved over time? | Are these terms used globally? | What is the most misunderstood looksmaxxing term? | Where can I learn more looksmaxxing terminology?",
+      "titleOverlap": 0.167,
+      "bodyOverlap": 0.274,
+      "titleTerms": [
+        "psl",
+        "rating",
+        "scale",
+        "explained",
+        "numbers",
+        "mean"
+      ],
+      "titleHits": [
+        "psl"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 862,
+      "offTopic": true
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/rhinoplasty-for-men/",
+      "title": "Rhinoplasty for Men — Everything You Need to Know",
+      "cluster": "surgery",
+      "hasFaq": true,
+      "faqCount": 8,
+      "questions": [
+        "Is this procedure worth the cost?",
+        "What is the recovery time?",
+        "How do I find a qualified surgeon?",
+        "What are the risks?",
+        "Can I finance the procedure?",
+        "How do I prepare for surgery?",
+        "Will the results look natural?",
+        "What if I am not happy with the results?"
+      ],
+      "fingerprint": "Is this procedure worth the cost? | What is the recovery time? | How do I find a qualified surgeon? | What are the risks? | Can I finance the procedure? | How do I prepare for surgery? | Will the results look natural? | What if I am not happy with the results?",
+      "titleOverlap": 0,
+      "bodyOverlap": 0.402,
+      "titleTerms": [
+        "rhinoplasty",
+        "men",
+        "everything",
+        "need",
+        "know"
+      ],
+      "titleHits": [],
+      "markdownLeak": false,
+      "bodyWords": 921,
+      "offTopic": true
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/softmaxxing-guide/",
+      "title": "Softmaxxing Guide — Level Up Without Surgery",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 8,
+      "questions": [
+        "Who is this guide for?",
+        "How often should I update my routine?",
+        "Can I combine multiple looksmaxxing routines?",
+        "What if I have sensitive skin?",
+        "How do I track my looksmaxxing progress?",
+        "Is this guide backed by science?",
+        "How long until I see results?",
+        "Do I need a professional to guide me?"
+      ],
+      "fingerprint": "Who is this guide for? | How often should I update my routine? | Can I combine multiple looksmaxxing routines? | What if I have sensitive skin? | How do I track my looksmaxxing progress? | Is this guide backed by science? | How long until I see results? | Do I need a professional to guide me?",
+      "titleOverlap": 0.5,
+      "bodyOverlap": 0.387,
+      "titleTerms": [
+        "softmaxxing",
+        "guide",
+        "level",
+        "surgery"
+      ],
+      "titleHits": [
+        "softmaxxing",
+        "guide"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 994,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/looks/softmaxxing-vs-hardmaxxing/",
+      "title": "Softmaxxing vs Hardmaxxing: What's the Difference?",
+      "cluster": "comparison",
+      "hasFaq": true,
+      "faqCount": 7,
+      "questions": [
+        "What is the difference between softmaxxing and hardmaxxing?",
+        "Should I start with softmaxxing or hardmaxxing?",
+        "Is hardmaxxing worth it?",
+        "How much does each cost?",
+        "Can softmaxxing alone get me significant results?",
+        "What's the biggest mistake people make?",
+        "How long until I see results from each?"
+      ],
+      "fingerprint": "What is the difference between softmaxxing and hardmaxxing? | Should I start with softmaxxing or hardmaxxing? | Is hardmaxxing worth it? | How much does each cost? | Can softmaxxing alone get me significant results? | What's the biggest mistake people make? | How long until I see results from each?",
+      "titleOverlap": 1,
+      "bodyOverlap": 0.56,
+      "titleTerms": [
+        "softmaxxing",
+        "hardmaxxing",
+        "what's",
+        "difference"
+      ],
+      "titleHits": [
+        "softmaxxing",
+        "hardmaxxing",
+        "what's",
+        "difference"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 682,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/masculinity/building-male-friendships/",
+      "title": "How to Build Real Male Friendships in Adulthood",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "Why do men lose friends in adulthood?",
+        "How do I make new friends as an adult man?",
+        "How many close friends should a man have?",
+        "Is it normal for men to have no close friends?",
+        "How long does it take to build a real friendship?",
+        "How do I keep up with friends who moved away?",
+        "Should married men spend time away from their families with friends?",
+        "Are work friends real friends?",
+        "How do I deepen a surface-level male friendship?",
+        "What is the best way to meet other men in a new city?"
+      ],
+      "fingerprint": "Why do men lose friends in adulthood? | How do I make new friends as an adult man? | How many close friends should a man have? | Is it normal for men to have no close friends? | How long does it take to build a real friendship? | How do I keep up with friends who moved away? | Should married men spend time away from their families with friends? | Are work friends real friends? | How do I deepen a surface-level male friendship? | What is the best way to meet other men in a new city?",
+      "titleOverlap": 1,
+      "bodyOverlap": 0.611,
+      "titleTerms": [
+        "build",
+        "real",
+        "male",
+        "friendships",
+        "adulthood"
+      ],
+      "titleHits": [
+        "build",
+        "real",
+        "male",
+        "friendships",
+        "adulthood"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 508,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/masculinity/finding-your-purpose/",
+      "title": "Finding Your Purpose Without the Self-Help Nonsense",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "How do I find my purpose in life?",
+        "Is find your passion good advice?",
+        "What are the sources of meaning in life?",
+        "Do I need a single calling?",
+        "Why do successful men feel empty?",
+        "Can work alone provide purpose?",
+        "How do I know if my work is meaningful?",
+        "Should I quit my job to find purpose?",
+        "What if nothing interests me?",
+        "Does purpose decrease with age?"
+      ],
+      "fingerprint": "How do I find my purpose in life? | Is find your passion good advice? | What are the sources of meaning in life? | Do I need a single calling? | Why do successful men feel empty? | Can work alone provide purpose? | How do I know if my work is meaningful? | Should I quit my job to find purpose? | What if nothing interests me? | Does purpose decrease with age?",
+      "titleOverlap": 0.25,
+      "bodyOverlap": 0.65,
+      "titleTerms": [
+        "finding",
+        "purpose",
+        "self-help",
+        "nonsense"
+      ],
+      "titleHits": [
+        "purpose"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 508,
+      "offTopic": true
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/masculinity/manosphere-explained/",
+      "title": "The Manosphere Explained — Without Taking Sides",
+      "cluster": "glossary culture",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "What is the manosphere?",
+        "Is the manosphere dangerous?",
+        "Who are the main manosphere figures?",
+        "What do manosphere creators agree on?",
+        "What do they disagree about?",
+        "Is Jordan Peterson part of the manosphere?",
+        "Is the manosphere a political movement?",
+        "Can the manosphere be helpful?",
+        "What is the black pill?",
+        "How do I engage with manosphere content safely?"
+      ],
+      "fingerprint": "What is the manosphere? | Is the manosphere dangerous? | Who are the main manosphere figures? | What do manosphere creators agree on? | What do they disagree about? | Is Jordan Peterson part of the manosphere? | Is the manosphere a political movement? | Can the manosphere be helpful? | What is the black pill? | How do I engage with manosphere content safely?",
+      "titleOverlap": 0.25,
+      "bodyOverlap": 0.568,
+      "titleTerms": [
+        "manosphere",
+        "explained",
+        "taking",
+        "sides"
+      ],
+      "titleHits": [
+        "manosphere"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 547,
+      "offTopic": true
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/masculinity/what-masculinity-means-2026/",
+      "title": "What Masculinity Actually Means in 2026",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "What does masculinity mean today?",
+        "Is traditional masculinity toxic?",
+        "How is modern masculinity different from the past?",
+        "What do young men get wrong about masculinity?",
+        "Is it bad to be an alpha male?",
+        "Do women want traditional masculinity?",
+        "Can you be feminist and masculine?",
+        "What is the best way to develop masculinity?",
+        "Is there a crisis of masculinity?",
+        "How do I raise a son to be a man?"
+      ],
+      "fingerprint": "What does masculinity mean today? | Is traditional masculinity toxic? | How is modern masculinity different from the past? | What do young men get wrong about masculinity? | Is it bad to be an alpha male? | Do women want traditional masculinity? | Can you be feminist and masculine? | What is the best way to develop masculinity? | Is there a crisis of masculinity? | How do I raise a son to be a man?",
+      "titleOverlap": 0.25,
+      "bodyOverlap": 0.452,
+      "titleTerms": [
+        "masculinity",
+        "actually",
+        "means",
+        "2026"
+      ],
+      "titleHits": [
+        "masculinity"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 476,
+      "offTopic": true
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/mindset/breaking-bad-habits/",
+      "title": "How to Actually Break Bad Habits",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "How long does it take to break a bad habit?",
+        "What is the most effective way to break a bad habit?",
+        "Why do I keep relapsing?",
+        "Is it possible to break multiple habits at once?",
+        "What should I do when I slip?",
+        "Does willpower matter for habit change?",
+        "Should I go cold turkey or gradually reduce?",
+        "How do I deal with cravings?",
+        "What is the role of accountability in breaking habits?",
+        "Can I break lifelong habits in my 40s or 50s?"
+      ],
+      "fingerprint": "How long does it take to break a bad habit? | What is the most effective way to break a bad habit? | Why do I keep relapsing? | Is it possible to break multiple habits at once? | What should I do when I slip? | Does willpower matter for habit change? | Should I go cold turkey or gradually reduce? | How do I deal with cravings? | What is the role of accountability in breaking habits? | Can I break lifelong habits in my 40s or 50s?",
+      "titleOverlap": 1,
+      "bodyOverlap": 0.398,
+      "titleTerms": [
+        "actually",
+        "break",
+        "bad",
+        "habits"
+      ],
+      "titleHits": [
+        "actually",
+        "break",
+        "bad",
+        "habits"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 487,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/mindset/goal-setting-that-works/",
+      "title": "Goal Setting That Actually Works",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "Why do annual goals usually fail?",
+        "How many goals should I set?",
+        "Should I tell people about my goals?",
+        "What is the difference between process and outcome goals?",
+        "Do I need to write down my goals?",
+        "How do I stay motivated during a long goal?",
+        "What if I do not achieve my goal?",
+        "Should goals be ambitious or realistic?",
+        "How do I prioritize between competing goals?",
+        "How often should I review my goals?"
+      ],
+      "fingerprint": "Why do annual goals usually fail? | How many goals should I set? | Should I tell people about my goals? | What is the difference between process and outcome goals? | Do I need to write down my goals? | How do I stay motivated during a long goal? | What if I do not achieve my goal? | Should goals be ambitious or realistic? | How do I prioritize between competing goals? | How often should I review my goals?",
+      "titleOverlap": 0.25,
+      "bodyOverlap": 0.474,
+      "titleTerms": [
+        "goal",
+        "setting",
+        "actually",
+        "works"
+      ],
+      "titleHits": [
+        "goal"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 457,
+      "offTopic": true
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/mindset/handling-rejection/",
+      "title": "How to Handle Rejection Without It Destroying You",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "Why does rejection hurt so much?",
+        "How long does rejection pain last?",
+        "How do I stop overthinking rejection?",
+        "Should I ask why I was rejected?",
+        "How do I get better at handling rejection?",
+        "Is rejection a reflection of my worth?",
+        "What is the biggest mistake after rejection?",
+        "How do I handle professional rejection?",
+        "Does rejection get easier over time?",
+        "Should I reach out again after being rejected?"
+      ],
+      "fingerprint": "Why does rejection hurt so much? | How long does rejection pain last? | How do I stop overthinking rejection? | Should I ask why I was rejected? | How do I get better at handling rejection? | Is rejection a reflection of my worth? | What is the biggest mistake after rejection? | How do I handle professional rejection? | Does rejection get easier over time? | Should I reach out again after being rejected?",
+      "titleOverlap": 0.667,
+      "bodyOverlap": 0.354,
+      "titleTerms": [
+        "handle",
+        "rejection",
+        "destroying"
+      ],
+      "titleHits": [
+        "handle",
+        "rejection"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 420,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/mindset/morning-routine-discipline/",
+      "title": "The Morning Routine That Actually Builds Discipline",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "What is the best time to wake up?",
+        "Do I need to wake up at 4am?",
+        "Should I work out first thing in the morning?",
+        "Is a cold shower necessary for discipline?",
+        "How long should a morning routine take?",
+        "Should I journal every morning?",
+        "Can I check my phone first thing?",
+        "What if my morning routine breaks?",
+        "Does getting sunlight really matter?",
+        "What is the most important part of a morning routine?"
+      ],
+      "fingerprint": "What is the best time to wake up? | Do I need to wake up at 4am? | Should I work out first thing in the morning? | Is a cold shower necessary for discipline? | How long should a morning routine take? | Should I journal every morning? | Can I check my phone first thing? | What if my morning routine breaks? | Does getting sunlight really matter? | What is the most important part of a morning routine?",
+      "titleOverlap": 0.6,
+      "bodyOverlap": 0.543,
+      "titleTerms": [
+        "morning",
+        "routine",
+        "actually",
+        "builds",
+        "discipline"
+      ],
+      "titleHits": [
+        "morning",
+        "routine",
+        "discipline"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 381,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/mindset/stoicism-for-modern-men/",
+      "title": "Stoicism for Modern Men — Without the Memes",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "What is Stoicism?",
+        "Is Stoicism just about suppressing emotions?",
+        "Can Stoicism help with anxiety?",
+        "What is the dichotomy of control?",
+        "What books should I read to learn Stoicism?",
+        "Is Stoicism compatible with Christianity or other religions?",
+        "Does Stoicism make you emotionless?",
+        "How do I practice Stoicism daily?",
+        "What is negative visualization?",
+        "Is Stoicism relevant in 2026?"
+      ],
+      "fingerprint": "What is Stoicism? | Is Stoicism just about suppressing emotions? | Can Stoicism help with anxiety? | What is the dichotomy of control? | What books should I read to learn Stoicism? | Is Stoicism compatible with Christianity or other religions? | Does Stoicism make you emotionless? | How do I practice Stoicism daily? | What is negative visualization? | Is Stoicism relevant in 2026?",
+      "titleOverlap": 0.5,
+      "bodyOverlap": 0.518,
+      "titleTerms": [
+        "stoicism",
+        "modern",
+        "men",
+        "memes"
+      ],
+      "titleHits": [
+        "stoicism",
+        "modern"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 421,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/money/building-online-business/",
+      "title": "Building an Online Business That Is Not Nonsense",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "What is the easiest online business to start?",
+        "How much can you make with an online business?",
+        "Do I need money to start an online business?",
+        "Is drop-shipping a good business model?",
+        "Should I quit my job to start an online business?",
+        "How do I find customers for an online business?",
+        "What is productized service?",
+        "Do I need an LLC?",
+        "Should I build a personal brand first or business first?",
+        "What percentage of online businesses succeed?"
+      ],
+      "fingerprint": "What is the easiest online business to start? | How much can you make with an online business? | Do I need money to start an online business? | Is drop-shipping a good business model? | Should I quit my job to start an online business? | How do I find customers for an online business? | What is productized service? | Do I need an LLC? | Should I build a personal brand first or business first? | What percentage of online businesses succeed?",
+      "titleOverlap": 0.5,
+      "bodyOverlap": 0.476,
+      "titleTerms": [
+        "building",
+        "online",
+        "business",
+        "nonsense"
+      ],
+      "titleHits": [
+        "online",
+        "business"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 454,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/money/financial-freedom-roadmap/",
+      "title": "The Financial Freedom Roadmap",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "What is the difference between financial freedom and financial independence?",
+        "How long does it take to achieve financial freedom?",
+        "What savings rate do I need for financial freedom?",
+        "Can you achieve financial freedom on an average income?",
+        "How much do I need to retire?",
+        "Should I buy a house on the path to financial freedom?",
+        "What is the biggest obstacle to financial freedom?",
+        "Do I need a high-income job for financial freedom?",
+        "Should I pay off my mortgage early?",
+        "What is the biggest mistake on the path to financial freedom?"
+      ],
+      "fingerprint": "What is the difference between financial freedom and financial independence? | How long does it take to achieve financial freedom? | What savings rate do I need for financial freedom? | Can you achieve financial freedom on an average income? | How much do I need to retire? | Should I buy a house on the path to financial freedom? | What is the biggest obstacle to financial freedom? | Do I need a high-income job for financial freedom? | Should I pay off my mortgage early? | What is the biggest mistake on the path to financial freedom?",
+      "titleOverlap": 0.667,
+      "bodyOverlap": 0.404,
+      "titleTerms": [
+        "financial",
+        "freedom",
+        "roadmap"
+      ],
+      "titleHits": [
+        "financial",
+        "freedom"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 465,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/money/investing-basics-for-men/",
+      "title": "Investing Basics for Men Who Actually Want Results",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "How much should I invest each month?",
+        "What is the best investment account for beginners?",
+        "Should I pay off debt or invest?",
+        "Is individual stock picking worth it?",
+        "How risky is crypto?",
+        "Should I have bonds in my portfolio?",
+        "What is the best index fund?",
+        "Can I time the market?",
+        "How do I open a Roth IRA?",
+        "When can I retire?"
+      ],
+      "fingerprint": "How much should I invest each month? | What is the best investment account for beginners? | Should I pay off debt or invest? | Is individual stock picking worth it? | How risky is crypto? | Should I have bonds in my portfolio? | What is the best index fund? | Can I time the market? | How do I open a Roth IRA? | When can I retire?",
+      "titleOverlap": 0.5,
+      "bodyOverlap": 0.52,
+      "titleTerms": [
+        "investing",
+        "basics",
+        "men",
+        "actually",
+        "want",
+        "results"
+      ],
+      "titleHits": [
+        "investing",
+        "men",
+        "want"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 406,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/money/salary-negotiation-tactics/",
+      "title": "Salary Negotiation Tactics That Actually Work",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "Is it rude to negotiate salary?",
+        "How much can I usually negotiate above the initial offer?",
+        "Should I give a salary number first?",
+        "What if the recruiter demands a number?",
+        "Can you negotiate a raise at your current job?",
+        "What can I negotiate besides salary?",
+        "Should I share my current salary?",
+        "What if they withdraw the offer when I negotiate?",
+        "How do I negotiate equity?",
+        "Should I negotiate by email or phone?"
+      ],
+      "fingerprint": "Is it rude to negotiate salary? | How much can I usually negotiate above the initial offer? | Should I give a salary number first? | What if the recruiter demands a number? | Can you negotiate a raise at your current job? | What can I negotiate besides salary? | Should I share my current salary? | What if they withdraw the offer when I negotiate? | How do I negotiate equity? | Should I negotiate by email or phone?",
+      "titleOverlap": 0.6,
+      "bodyOverlap": 0.459,
+      "titleTerms": [
+        "salary",
+        "negotiation",
+        "tactics",
+        "actually",
+        "work"
+      ],
+      "titleHits": [
+        "salary",
+        "negotiation",
+        "work"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 393,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/money/side-hustles-for-men/",
+      "title": "Side Hustles for Men That Actually Make Money",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "What is the best side hustle for men?",
+        "How much can I realistically make from a side hustle?",
+        "Should I start drop-shipping?",
+        "How much do I need to start a side hustle?",
+        "How do I get my first client?",
+        "Can I do a side hustle while working full time?",
+        "Do I need an LLC for a side hustle?",
+        "Is it worth paying for side hustle courses?",
+        "What side hustle requires no skills?",
+        "How do I scale a side hustle to full time?"
+      ],
+      "fingerprint": "What is the best side hustle for men? | How much can I realistically make from a side hustle? | Should I start drop-shipping? | How much do I need to start a side hustle? | How do I get my first client? | Can I do a side hustle while working full time? | Do I need an LLC for a side hustle? | Is it worth paying for side hustle courses? | What side hustle requires no skills? | How do I scale a side hustle to full time?",
+      "titleOverlap": 0.6,
+      "bodyOverlap": 0.484,
+      "titleTerms": [
+        "side",
+        "hustles",
+        "men",
+        "actually",
+        "money"
+      ],
+      "titleHits": [
+        "side",
+        "men",
+        "money"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 409,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/style/capsule-wardrobe-men/",
+      "title": "The Men's Capsule Wardrobe That Actually Works",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "How many clothes does a man really need?",
+        "What colors should men stick to?",
+        "How much should I spend on a capsule wardrobe?",
+        "Where should men shop for basics?",
+        "Is Uniqlo good quality?",
+        "How often should men replace clothes?",
+        "Do I need a tailor?",
+        "Should I buy secondhand?",
+        "What is the single best clothing investment?",
+        "How do I know if clothes fit right?"
+      ],
+      "fingerprint": "How many clothes does a man really need? | What colors should men stick to? | How much should I spend on a capsule wardrobe? | Where should men shop for basics? | Is Uniqlo good quality? | How often should men replace clothes? | Do I need a tailor? | Should I buy secondhand? | What is the single best clothing investment? | How do I know if clothes fit right?",
+      "titleOverlap": 0.4,
+      "bodyOverlap": 0.521,
+      "titleTerms": [
+        "men's",
+        "capsule",
+        "wardrobe",
+        "actually",
+        "works"
+      ],
+      "titleHits": [
+        "capsule",
+        "wardrobe"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 325,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/style/dress-for-your-body-type/",
+      "title": "How to Dress for Your Body Type",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "How should short men dress?",
+        "What should tall men avoid wearing?",
+        "How can skinny men look bigger?",
+        "What brands fit muscular guys?",
+        "Should heavier guys wear baggy clothes?",
+        "What does V-taper mean in clothing?",
+        "How important is a tailor?",
+        "What color combinations work for most men?",
+        "Does body type matter more than brand?",
+        "How do I know my measurements?"
+      ],
+      "fingerprint": "How should short men dress? | What should tall men avoid wearing? | How can skinny men look bigger? | What brands fit muscular guys? | Should heavier guys wear baggy clothes? | What does V-taper mean in clothing? | How important is a tailor? | What color combinations work for most men? | Does body type matter more than brand? | How do I know my measurements?",
+      "titleOverlap": 1,
+      "bodyOverlap": 0.525,
+      "titleTerms": [
+        "dress",
+        "body",
+        "type"
+      ],
+      "titleHits": [
+        "dress",
+        "body",
+        "type"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 348,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/style/mens-grooming-style-guide/",
+      "title": "The Men's Grooming Style Guide",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "How often should men get a haircut?",
+        "What is the best haircut for men?",
+        "Should I grow a beard?",
+        "What is the minimum skincare routine for men?",
+        "Is sunscreen necessary for men?",
+        "How do I get whiter teeth?",
+        "Should men groom their eyebrows?",
+        "What tools do I need for grooming?",
+        "How long until skincare shows results?",
+        "Should I consider teeth straightening as an adult?"
+      ],
+      "fingerprint": "How often should men get a haircut? | What is the best haircut for men? | Should I grow a beard? | What is the minimum skincare routine for men? | Is sunscreen necessary for men? | How do I get whiter teeth? | Should men groom their eyebrows? | What tools do I need for grooming? | How long until skincare shows results? | Should I consider teeth straightening as an adult?",
+      "titleOverlap": 0.5,
+      "bodyOverlap": 0.54,
+      "titleTerms": [
+        "men's",
+        "grooming",
+        "style",
+        "guide"
+      ],
+      "titleHits": [
+        "grooming",
+        "style"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 409,
+      "offTopic": false
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/style/mens-watch-guide/",
+      "title": "The Men's Watch Guide (Without the Snobbery)",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "What is a good first watch for men?",
+        "How much should I spend on a watch?",
+        "Is an automatic watch better than quartz?",
+        "What watch size fits my wrist?",
+        "Are Rolex watches worth it?",
+        "Should I buy a watch as an investment?",
+        "What is the best watch for a suit?",
+        "Can I wear one watch with everything?",
+        "How often should I service a mechanical watch?",
+        "Is an Apple Watch OK as a main watch?"
+      ],
+      "fingerprint": "What is a good first watch for men? | How much should I spend on a watch? | Is an automatic watch better than quartz? | What watch size fits my wrist? | Are Rolex watches worth it? | Should I buy a watch as an investment? | What is the best watch for a suit? | Can I wear one watch with everything? | How often should I service a mechanical watch? | Is an Apple Watch OK as a main watch?",
+      "titleOverlap": 0.25,
+      "bodyOverlap": 0.549,
+      "titleTerms": [
+        "men's",
+        "watch",
+        "guide",
+        "snobbery"
+      ],
+      "titleHits": [
+        "watch"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 377,
+      "offTopic": true
+    },
+    {
+      "url": "https://looksmaxxing.guide/en/style/personal-branding-basics/",
+      "title": "Personal Branding for Men — Without Being Cringe",
+      "cluster": "guide",
+      "hasFaq": true,
+      "faqCount": 10,
+      "questions": [
+        "What is personal branding?",
+        "Should I start a personal brand?",
+        "Where should I build my personal brand?",
+        "How often should I post on LinkedIn?",
+        "What should I post about?",
+        "Do I need professional photos?",
+        "How long until personal branding pays off?",
+        "Should I share personal stuff on LinkedIn?",
+        "Is it worth paying for LinkedIn Premium?",
+        "How do I avoid looking like a LinkedIn influencer?"
+      ],
+      "fingerprint": "What is personal branding? | Should I start a personal brand? | Where should I build my personal brand? | How often should I post on LinkedIn? | What should I post about? | Do I need professional photos? | How long until personal branding pays off? | Should I share personal stuff on LinkedIn? | Is it worth paying for LinkedIn Premium? | How do I avoid looking like a LinkedIn influencer?",
+      "titleOverlap": 0.5,
+      "bodyOverlap": 0.388,
+      "titleTerms": [
+        "personal",
+        "branding",
+        "men",
+        "cringe"
+      ],
+      "titleHits": [
+        "personal",
+        "branding"
+      ],
+      "markdownLeak": false,
+      "bodyWords": 342,
+      "offTopic": false
+    }
+  ]
+}

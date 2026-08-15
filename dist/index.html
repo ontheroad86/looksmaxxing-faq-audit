@@ -1,1 +1,805 @@
-<!doctype html><meta charset="utf-8"><title>probe</title><h1>hello 2</h1>
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>FAQ relevance audit — looksmaxxing.guide</title>
+<style>
+:root{--bg:#0f1115;--fg:#e6e8ec;--mut:#8b93a1;--acc:#D19C14;--bad:#E5443B;--line:#242833}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.6 ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}
+main{max-width:1080px;margin:0 auto;padding:48px 24px 96px}
+h1{font-size:28px;margin:0 0 8px;letter-spacing:-.01em}
+h2{font-size:18px;margin:48px 0 12px;color:var(--acc)}
+p{color:var(--mut);margin:0 0 16px;max-width:70ch}
+.lede{color:var(--fg);font-size:17px}
+.cards{display:flex;gap:12px;flex-wrap:wrap;margin:28px 0}
+.card{flex:1 1 160px;border:1px solid var(--line);border-radius:10px;padding:16px}
+.card b{display:block;font-size:32px;font-weight:600;line-height:1.1}
+.card span{color:var(--mut);font-size:13px}
+.card.hot b{color:var(--bad)}
+table{width:100%;border-collapse:collapse;margin:12px 0 0;font-size:14px}
+th{text-align:left;color:var(--mut);font-weight:500;border-bottom:1px solid var(--line);padding:8px 10px;font-size:12px;text-transform:uppercase;letter-spacing:.04em}
+td{border-bottom:1px solid var(--line);padding:10px;vertical-align:top}
+td.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+tr.bad td{background:rgba(229,68,59,.06)}
+a{color:var(--acc);text-decoration:none}a:hover{text-decoration:underline}
+.cluster{display:block;color:var(--mut);font-size:12px}
+.q{color:var(--mut);font-size:13px}
+.note{border-left:2px solid var(--acc);padding:2px 0 2px 14px;margin:20px 0;color:var(--mut)}
+code{background:#181b22;padding:1px 5px;border-radius:4px;font-size:13px}
+footer{margin-top:64px;color:var(--mut);font-size:13px;border-top:1px solid var(--line);padding-top:16px}
+</style></head><body><main>
+
+<h1>FAQ relevance audit — looksmaxxing.guide</h1>
+<p class="lede">Every article ships an FAQ block. Some are written for the article. Some fall back
+to a shared generic block. This measures which is which across the whole English catalogue.</p>
+
+<div class="cards">
+  <div class="card hot"><b>19</b><span>articles with an off-topic FAQ</span></div>
+  <div class="card"><b>91</b><span>articles with an FAQ block</span></div>
+  <div class="card"><b>0</b><span>articles with no FAQ at all</span></div>
+  <div class="card"><b>10</b><span>with raw markdown in answers</span></div>
+</div>
+
+<p>Scanned <strong>91</strong> article URLs from
+<code>sitemap-0.xml</code> (208 total URLs; glossary terms, influencer profiles,
+pillar indexes and legal pages excluded).</p>
+
+<h2>The clearest case</h2>
+<div class="note"><strong>Is Bonesmashing Dangerous?</strong> — an article about people striking their
+own facial bones to break them. Its FAQ asks <em>“Where did this term originate?”</em>,
+<em>“Is this term used seriously?”</em>, <em>“Should I use this terminology?”</em>
+On a site that positions itself as harm-reduction, a reader asking whether something is dangerous
+is answered with vocabulary questions.</div>
+
+<h2>How this is measured</h2>
+<p><strong>Title overlap</strong> — the share of the article title's content words that appear
+anywhere in its FAQ. An FAQ written for the article uses the article's nouns; a generic fallback
+does not mention them at all. Flagged below <code>0.34</code>.</p>
+<p><strong>Body overlap</strong> — the share of the FAQ's own vocabulary that also occurs in the
+article body. Reported as a second, independent view rather than merged into one score, so a
+disagreement between the two is visible instead of averaged away.</p>
+
+<h2>Shared FAQ blocks (7)</h2>
+<p>These exact FAQ question sets appear on more than one article — direct evidence that the block is
+injected rather than authored per article. The same text is duplicated in both the rendered HTML and
+the <code>FAQPage</code> JSON-LD.</p>
+<div class="note"><strong>5 articles</strong> share:<br>Who is this guide for? · How often should I update my routine? · Can I combine multiple looksmaxxing routines?<br><br><a href="https://looksmaxxing.guide/en/fitness/looksmaxxing-diet-plan/" target="_blank" rel="noopener">/en/fitness/looksmaxxing-diet-plan/</a><br><a href="https://looksmaxxing.guide/en/looks/daily-looksmaxxing-routine/" target="_blank" rel="noopener">/en/looks/daily-looksmaxxing-routine/</a><br><a href="https://looksmaxxing.guide/en/looks/looksmaxxing-haircuts/" target="_blank" rel="noopener">/en/looks/looksmaxxing-haircuts/</a><br><a href="https://looksmaxxing.guide/en/looks/looksmaxxing-skincare-routine-men/" target="_blank" rel="noopener">/en/looks/looksmaxxing-skincare-routine-men/</a><br><a href="https://looksmaxxing.guide/en/looks/softmaxxing-guide/" target="_blank" rel="noopener">/en/looks/softmaxxing-guide/</a></div><div class="note"><strong>4 articles</strong> share:<br>Where did this term originate? · Is this term used seriously? · Should I use this terminology?<br><br><a href="https://looksmaxxing.guide/en/looks/does-mewing-work/" target="_blank" rel="noopener">/en/looks/does-mewing-work/</a><br><a href="https://looksmaxxing.guide/en/looks/is-bonesmashing-dangerous/" target="_blank" rel="noopener">/en/looks/is-bonesmashing-dangerous/</a><br><a href="https://looksmaxxing.guide/en/looks/looksmaxxing-glossary/" target="_blank" rel="noopener">/en/looks/looksmaxxing-glossary/</a><br><a href="https://looksmaxxing.guide/en/looks/psl-rating-scale-explained/" target="_blank" rel="noopener">/en/looks/psl-rating-scale-explained/</a></div><div class="note"><strong>4 articles</strong> share:<br>Is this procedure worth the cost? · What is the recovery time? · How do I find a qualified surgeon?<br><br><a href="https://looksmaxxing.guide/en/looks/hair-transplant-looksmaxxing/" target="_blank" rel="noopener">/en/looks/hair-transplant-looksmaxxing/</a><br><a href="https://looksmaxxing.guide/en/looks/looksmaxxing-surgery-guide/" target="_blank" rel="noopener">/en/looks/looksmaxxing-surgery-guide/</a><br><a href="https://looksmaxxing.guide/en/looks/looksmaxxing-surgery-turkey/" target="_blank" rel="noopener">/en/looks/looksmaxxing-surgery-turkey/</a><br><a href="https://looksmaxxing.guide/en/looks/rhinoplasty-for-men/" target="_blank" rel="noopener">/en/looks/rhinoplasty-for-men/</a></div><div class="note"><strong>4 articles</strong> share:<br>Can I really improve this area without surgery? · How long do non-surgical improvements take? · What exercises help?<br><br><a href="https://looksmaxxing.guide/en/looks/hunter-eyes-explained/" target="_blank" rel="noopener">/en/looks/hunter-eyes-explained/</a><br><a href="https://looksmaxxing.guide/en/looks/looksmaxxing-jawline/" target="_blank" rel="noopener">/en/looks/looksmaxxing-jawline/</a><br><a href="https://looksmaxxing.guide/en/looks/looksmaxxing-nose/" target="_blank" rel="noopener">/en/looks/looksmaxxing-nose/</a><br><a href="https://looksmaxxing.guide/en/looks/looksmaxxing-skincare-products/" target="_blank" rel="noopener">/en/looks/looksmaxxing-skincare-products/</a></div><div class="note"><strong>3 articles</strong> share:<br>Is looksmaxxing different for different demographics? · Are product recommendations universal? · Does age matter for looksmaxxing?<br><br><a href="https://looksmaxxing.guide/en/dating/boyfriend-wants-jaw-surgery/" target="_blank" rel="noopener">/en/dating/boyfriend-wants-jaw-surgery/</a><br><a href="https://looksmaxxing.guide/en/looks/looksmaxxing-for-black-men/" target="_blank" rel="noopener">/en/looks/looksmaxxing-for-black-men/</a><br><a href="https://looksmaxxing.guide/en/looks/looksmaxxing-in-your-30s-40s/" target="_blank" rel="noopener">/en/looks/looksmaxxing-in-your-30s-40s/</a></div><div class="note"><strong>2 articles</strong> share:<br>What is the main difference covered in this comparison? · Which approach is better for beginners? · Can I combine both approaches?<br><br><a href="https://looksmaxxing.guide/en/looks/is-looksmaxxing-real/" target="_blank" rel="noopener">/en/looks/is-looksmaxxing-real/</a><br><a href="https://looksmaxxing.guide/en/looks/looksmaxxing-vs-glow-up/" target="_blank" rel="noopener">/en/looks/looksmaxxing-vs-glow-up/</a></div><div class="note"><strong>2 articles</strong> share:<br>Are AI looksmaxxing tools accurate? · Which AI rating tool is the most reliable? · Can ChatGPT rate my appearance?<br><br><a href="https://looksmaxxing.guide/en/looks/looksmaxxing-ai-rating-tools-compared/" target="_blank" rel="noopener">/en/looks/looksmaxxing-ai-rating-tools-compared/</a><br><a href="https://looksmaxxing.guide/en/looks/looksmaxxing-gpt-accuracy/" target="_blank" rel="noopener">/en/looks/looksmaxxing-gpt-accuracy/</a></div>
+
+<h2>Flagged — FAQ does not match the article (19)</h2>
+<table><thead><tr><th>Article</th><th class="num">FAQ n</th><th class="num">Title</th><th class="num">Body</th><th>First two questions</th></tr></thead>
+<tbody><tr class="bad">
+    <td><a href="https://looksmaxxing.guide/en/dating/boyfriend-wants-jaw-surgery/" target="_blank" rel="noopener">My Boyfriend Wants Jaw Surgery — What You Should Know</a>
+      <span class="cluster">demographics</span></td>
+    <td class="num">8</td>
+    <td class="num">0.00</td>
+    <td class="num">0.24</td>
+    <td class="q">Is looksmaxxing different for different demographics? · Are product recommendations universal?</td>
+  </tr><tr class="bad">
+    <td><a href="https://looksmaxxing.guide/en/looks/hair-transplant-looksmaxxing/" target="_blank" rel="noopener">Hair Transplants for Looksmaxxing — What to Expect</a>
+      <span class="cluster">surgery</span></td>
+    <td class="num">8</td>
+    <td class="num">0.00</td>
+    <td class="num">0.34</td>
+    <td class="q">Is this procedure worth the cost? · What is the recovery time?</td>
+  </tr><tr class="bad">
+    <td><a href="https://looksmaxxing.guide/en/looks/hunter-eyes-explained/" target="_blank" rel="noopener">Hunter Eyes Explained — What They Are and Can You Get Them?</a>
+      <span class="cluster">body part</span></td>
+    <td class="num">8</td>
+    <td class="num">0.00</td>
+    <td class="num">0.27</td>
+    <td class="q">Can I really improve this area without surgery? · How long do non-surgical improvements take?</td>
+  </tr><tr class="bad">
+    <td><a href="https://looksmaxxing.guide/en/looks/looksmaxxing-jawline/" target="_blank" rel="noopener">Looksmaxxing Your Jawline — What Actually Works</a>
+      <span class="cluster">body part</span></td>
+    <td class="num">8</td>
+    <td class="num">0.00</td>
+    <td class="num">0.33</td>
+    <td class="q">Can I really improve this area without surgery? · How long do non-surgical improvements take?</td>
+  </tr><tr class="bad">
+    <td><a href="https://looksmaxxing.guide/en/looks/rhinoplasty-for-men/" target="_blank" rel="noopener">Rhinoplasty for Men — Everything You Need to Know</a>
+      <span class="cluster">surgery</span></td>
+    <td class="num">8</td>
+    <td class="num">0.00</td>
+    <td class="num">0.40</td>
+    <td class="q">Is this procedure worth the cost? · What is the recovery time?</td>
+  </tr><tr class="bad">
+    <td><a href="https://looksmaxxing.guide/en/looks/psl-rating-scale-explained/" target="_blank" rel="noopener">PSL Rating Scale Explained — What the Numbers Mean</a>
+      <span class="cluster">glossary culture</span></td>
+    <td class="num">8</td>
+    <td class="num">0.17</td>
+    <td class="num">0.27</td>
+    <td class="q">Where did this term originate? · Is this term used seriously?</td>
+  </tr><tr class="bad">
+    <td><a href="https://looksmaxxing.guide/en/looks/does-mewing-work/" target="_blank" rel="noopener">Does Mewing Actually Work? Evidence Review</a>
+      <span class="cluster">glossary culture</span></td>
+    <td class="num">8</td>
+    <td class="num">0.20</td>
+    <td class="num">0.23</td>
+    <td class="q">Where did this term originate? · Is this term used seriously?</td>
+  </tr><tr class="bad">
+    <td><a href="https://looksmaxxing.guide/en/looks/looksmaxxing-skincare-products/" target="_blank" rel="noopener">Best Skincare Products for Looksmaxxing in 2026</a>
+      <span class="cluster">body part</span></td>
+    <td class="num">8</td>
+    <td class="num">0.20</td>
+    <td class="num">0.24</td>
+    <td class="q">Can I really improve this area without surgery? · How long do non-surgical improvements take?</td>
+  </tr><tr class="bad">
+    <td><a href="https://looksmaxxing.guide/en/creativity/should-creators-use-ai/" target="_blank" rel="noopener">Should Creators Use AI? The Honest Answer</a>
+      <span class="cluster">ai creativity</span></td>
+    <td class="num">7</td>
+    <td class="num">0.25</td>
+    <td class="num">0.40</td>
+    <td class="q">Is it ethical to use AI for creative work? · Will AI replace creative jobs?</td>
+  </tr><tr class="bad">
+    <td><a href="https://looksmaxxing.guide/en/fitness/sleep-optimization-guide/" target="_blank" rel="noopener">Sleep Optimization — The Real Guide</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">0.25</td>
+    <td class="num">0.47</td>
+    <td class="q">How many hours of sleep do men actually need? · What is the best bedroom temperature for sleep?</td>
+  </tr><tr class="bad">
+    <td><a href="https://looksmaxxing.guide/en/looks/complete-looksmaxxing-guide/" target="_blank" rel="noopener">The Complete Looksmaxxing Guide for 2026</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">0.25</td>
+    <td class="num">0.49</td>
+    <td class="q">What is looksmaxxing? · Is looksmaxxing safe?</td>
+  </tr><tr class="bad">
+    <td><a href="https://looksmaxxing.guide/en/looks/looksmaxxing-surgery-guide/" target="_blank" rel="noopener">Looksmaxxing Surgery — The Complete Guide</a>
+      <span class="cluster">surgery</span></td>
+    <td class="num">8</td>
+    <td class="num">0.25</td>
+    <td class="num">0.55</td>
+    <td class="q">Is this procedure worth the cost? · What is the recovery time?</td>
+  </tr><tr class="bad">
+    <td><a href="https://looksmaxxing.guide/en/masculinity/finding-your-purpose/" target="_blank" rel="noopener">Finding Your Purpose Without the Self-Help Nonsense</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">0.25</td>
+    <td class="num">0.65</td>
+    <td class="q">How do I find my purpose in life? · Is find your passion good advice?</td>
+  </tr><tr class="bad">
+    <td><a href="https://looksmaxxing.guide/en/masculinity/manosphere-explained/" target="_blank" rel="noopener">The Manosphere Explained — Without Taking Sides</a>
+      <span class="cluster">glossary culture</span></td>
+    <td class="num">10</td>
+    <td class="num">0.25</td>
+    <td class="num">0.57</td>
+    <td class="q">What is the manosphere? · Is the manosphere dangerous?</td>
+  </tr><tr class="bad">
+    <td><a href="https://looksmaxxing.guide/en/masculinity/what-masculinity-means-2026/" target="_blank" rel="noopener">What Masculinity Actually Means in 2026</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">0.25</td>
+    <td class="num">0.45</td>
+    <td class="q">What does masculinity mean today? · Is traditional masculinity toxic?</td>
+  </tr><tr class="bad">
+    <td><a href="https://looksmaxxing.guide/en/mindset/goal-setting-that-works/" target="_blank" rel="noopener">Goal Setting That Actually Works</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">0.25</td>
+    <td class="num">0.47</td>
+    <td class="q">Why do annual goals usually fail? · How many goals should I set?</td>
+  </tr><tr class="bad">
+    <td><a href="https://looksmaxxing.guide/en/style/mens-watch-guide/" target="_blank" rel="noopener">The Men's Watch Guide (Without the Snobbery)</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">0.25</td>
+    <td class="num">0.55</td>
+    <td class="q">What is a good first watch for men? · How much should I spend on a watch?</td>
+  </tr><tr class="bad">
+    <td><a href="https://looksmaxxing.guide/en/looks/clavicular-trt-at-14-claim/" target="_blank" rel="noopener">Clavicular's TRT-at-14 Claim: What the Medical Literature Actually Says</a>
+      <span class="cluster">trending deep-dive</span></td>
+    <td class="num">10</td>
+    <td class="num">0.29</td>
+    <td class="num">0.57</td>
+    <td class="q">Did Clavicular really start TRT at 14? · What does TRT do to a 14-year-old?</td>
+  </tr><tr class="bad">
+    <td><a href="https://looksmaxxing.guide/en/looks/looksmaxxing-supplements/" target="_blank" rel="noopener">Looksmaxxing Supplements: What Works, What's Hype, What's Dangerous</a>
+      <span class="cluster">trending deep-dive</span></td>
+    <td class="num">10</td>
+    <td class="num">0.33</td>
+    <td class="num">0.71</td>
+    <td class="q">What supplements actually work for looksmaxxing? · Do testosterone boosters work?</td>
+  </tr></tbody></table>
+
+<h2>Raw markdown rendered as text (10)</h2>
+<p>FAQ answers are emitted as plain strings, so markdown link syntax reaches the reader literally —
+brackets, parentheses and the raw path. It is also duplicated into the JSON-LD.</p>
+<table><thead><tr><th>Article</th><th class="num">FAQ n</th><th class="num">Title</th><th class="num">Body</th><th>First two questions</th></tr></thead>
+<tbody><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/clavicular-before-and-after/" target="_blank" rel="noopener">Clavicular Before and After: What the Photos Actually Show</a>
+      <span class="cluster">trending deep-dive</span></td>
+    <td class="num">10</td>
+    <td class="num">0.75</td>
+    <td class="num">0.67</td>
+    <td class="q">What does Clavicular look like before vs after? · Did bonesmashing cause the jawline?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/clavicular-girlfriend-violet-lentz/" target="_blank" rel="noopener">Who Is Clavicular's Girlfriend? Violet Lentz, the Jenny Popach Fight, and the 'Dating Three' Claim</a>
+      <span class="cluster">trending deep-dive</span></td>
+    <td class="num">10</td>
+    <td class="num">1.00</td>
+    <td class="num">0.64</td>
+    <td class="q">Who is Clavicular's girlfriend? · What happened with Jenny Popach?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/clavicular-hammer-bonesmashing-routine/" target="_blank" rel="noopener">Clavicular's Hammer Routine: What He Told Impaulsive About Bonesmashing</a>
+      <span class="cluster">trending deep-dive</span></td>
+    <td class="num">9</td>
+    <td class="num">1.00</td>
+    <td class="num">0.72</td>
+    <td class="q">What did Clavicular say on Impaulsive? · Did the hammer routine work?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/clavicular-height-stats/" target="_blank" rel="noopener">Clavicular's Height, Stats, and Physical Profile</a>
+      <span class="cluster">trending deep-dive</span></td>
+    <td class="num">10</td>
+    <td class="num">0.80</td>
+    <td class="num">0.54</td>
+    <td class="q">How tall is Clavicular? · How much does Clavicular weigh?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/clavicular-real-name-age-bio/" target="_blank" rel="noopener">Clavicular's Real Name, Age, and Origin: Who Is Braden Eric Peters?</a>
+      <span class="cluster">trending deep-dive</span></td>
+    <td class="num">10</td>
+    <td class="num">0.88</td>
+    <td class="num">0.67</td>
+    <td class="q">What is Clavicular's real name? · How old is Clavicular?</td>
+  </tr><tr class="bad">
+    <td><a href="https://looksmaxxing.guide/en/looks/clavicular-trt-at-14-claim/" target="_blank" rel="noopener">Clavicular's TRT-at-14 Claim: What the Medical Literature Actually Says</a>
+      <span class="cluster">trending deep-dive</span></td>
+    <td class="num">10</td>
+    <td class="num">0.29</td>
+    <td class="num">0.57</td>
+    <td class="q">Did Clavicular really start TRT at 14? · What does TRT do to a 14-year-old?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/clavicular-youtube-ban-timeline/" target="_blank" rel="noopener">Clavicular's Platform Ban Timeline: YouTube, Kick, and Everything In Between</a>
+      <span class="cluster">trending deep-dive</span></td>
+    <td class="num">9</td>
+    <td class="num">0.50</td>
+    <td class="num">0.59</td>
+    <td class="q">Is Clavicular banned from YouTube? · Why was Clavicular banned from YouTube the first time?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/creators-like-clavicular-without-blackpill/" target="_blank" rel="noopener">Creators Like Clavicular But Without the Blackpill: Where to Get the Analysis Without the Doom</a>
+      <span class="cluster">demographics</span></td>
+    <td class="num">10</td>
+    <td class="num">0.67</td>
+    <td class="num">0.56</td>
+    <td class="q">Who is the best alternative to Clavicular? · Is QOVES Studio actually clinical?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/if-your-son-watches-clavicular/" target="_blank" rel="noopener">If Your Son Watches Clavicular: A Parent's Specific Guide</a>
+      <span class="cluster">demographics</span></td>
+    <td class="num">10</td>
+    <td class="num">0.50</td>
+    <td class="num">0.56</td>
+    <td class="q">My son mentioned Clavicular. Should I be worried? · What specifically about Clavicular makes him different from other looksmaxxing creators?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/looksmaxxing-dangers-doctors-warn/" target="_blank" rel="noopener">What Doctors Want You to Know About Looksmaxxing: The Real Risks</a>
+      <span class="cluster">trending deep-dive</span></td>
+    <td class="num">10</td>
+    <td class="num">0.67</td>
+    <td class="num">0.62</td>
+    <td class="q">What are the main dangers of looksmaxxing? · What is 'boy kibble'?</td>
+  </tr></tbody></table>
+
+
+
+<h2>Passing (72)</h2>
+<p>Lowest-scoring first, so the boundary of the threshold is inspectable rather than hidden.</p>
+<table><thead><tr><th>Article</th><th class="num">FAQ n</th><th class="num">Title</th><th class="num">Body</th><th>First two questions</th></tr></thead>
+<tbody><tr>
+    <td><a href="https://looksmaxxing.guide/en/fitness/anti-aging-for-men/" target="_blank" rel="noopener">Anti-Aging for Men — What Actually Keeps You Young</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">0.40</td>
+    <td class="num">0.48</td>
+    <td class="q">What is the most effective anti-aging strategy? · When should men start anti-aging?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/fitness/biohacking-basics/" target="_blank" rel="noopener">Biohacking Basics — What Actually Moves the Needle</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">0.40</td>
+    <td class="num">0.56</td>
+    <td class="q">What is biohacking? · What are the best biohacks for beginners?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/looksmaxxing-gpt-accuracy/" target="_blank" rel="noopener">Can ChatGPT Rate Your Looks? Testing AI Accuracy</a>
+      <span class="cluster">ai tools</span></td>
+    <td class="num">8</td>
+    <td class="num">0.40</td>
+    <td class="num">0.48</td>
+    <td class="q">Are AI looksmaxxing tools accurate? · Which AI rating tool is the most reliable?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/looksmaxxing-surgery-turkey/" target="_blank" rel="noopener">Looksmaxxing Surgery in Turkey — Worth the Trip?</a>
+      <span class="cluster">surgery</span></td>
+    <td class="num">8</td>
+    <td class="num">0.40</td>
+    <td class="num">0.48</td>
+    <td class="q">Is this procedure worth the cost? · What is the recovery time?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/parents-guide-to-looksmaxxing/" target="_blank" rel="noopener">A Parent's Guide to Looksmaxxing: How to Talk to Your Son</a>
+      <span class="cluster">demographics</span></td>
+    <td class="num">10</td>
+    <td class="num">0.40</td>
+    <td class="num">0.68</td>
+    <td class="q">How common is looksmaxxing among teenage boys? · What age does looksmaxxing affect?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/style/capsule-wardrobe-men/" target="_blank" rel="noopener">The Men's Capsule Wardrobe That Actually Works</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">0.40</td>
+    <td class="num">0.52</td>
+    <td class="q">How many clothes does a man really need? · What colors should men stick to?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/dating/first-date-guide/" target="_blank" rel="noopener">The First Date Guide for Men</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">0.50</td>
+    <td class="num">0.52</td>
+    <td class="q">Where should I take a woman for a first date? · How long should a first date be?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/fitness/mens-supplements-guide/" target="_blank" rel="noopener">The Only Supplements Guide for Men You Need</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">0.50</td>
+    <td class="num">0.36</td>
+    <td class="q">What supplements should every man take? · Do multivitamins work?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/clavicular-overdose-pentastack-explained/" target="_blank" rel="noopener">What Was in Clavicular's 'Pentastack' — and Why It Almost Killed Him</a>
+      <span class="cluster">trending deep-dive</span></td>
+    <td class="num">10</td>
+    <td class="num">0.50</td>
+    <td class="num">0.62</td>
+    <td class="q">What is the 'pentastack' Clavicular was using? · What happened to Clavicular?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/clavicular-psl-system-explained/" target="_blank" rel="noopener">The PSL System Clavicular Uses: Subhuman, Normie, Chad — Explained</a>
+      <span class="cluster">glossary culture</span></td>
+    <td class="num">9</td>
+    <td class="num">0.50</td>
+    <td class="num">0.69</td>
+    <td class="q">What does PSL stand for? · What are the tiers in Clavicular's PSL system?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/clavicular-youtube-ban-timeline/" target="_blank" rel="noopener">Clavicular's Platform Ban Timeline: YouTube, Kick, and Everything In Between</a>
+      <span class="cluster">trending deep-dive</span></td>
+    <td class="num">9</td>
+    <td class="num">0.50</td>
+    <td class="num">0.59</td>
+    <td class="q">Is Clavicular banned from YouTube? · Why was Clavicular banned from YouTube the first time?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/if-your-son-watches-clavicular/" target="_blank" rel="noopener">If Your Son Watches Clavicular: A Parent's Specific Guide</a>
+      <span class="cluster">demographics</span></td>
+    <td class="num">10</td>
+    <td class="num">0.50</td>
+    <td class="num">0.56</td>
+    <td class="q">My son mentioned Clavicular. Should I be worried? · What specifically about Clavicular makes him different from other looksmaxxing creators?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/is-bonesmashing-dangerous/" target="_blank" rel="noopener">Is Bonesmashing Dangerous? Here's What We Know</a>
+      <span class="cluster">glossary culture</span></td>
+    <td class="num">8</td>
+    <td class="num">0.50</td>
+    <td class="num">0.23</td>
+    <td class="q">Where did this term originate? · Is this term used seriously?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/looksmaxxing-glossary/" target="_blank" rel="noopener">Looksmaxxing Glossary 2026: Dictionary of Slang and Terms</a>
+      <span class="cluster">glossary culture</span></td>
+    <td class="num">8</td>
+    <td class="num">0.50</td>
+    <td class="num">0.42</td>
+    <td class="q">Where did this term originate? · Is this term used seriously?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/looksmaxxing-nose/" target="_blank" rel="noopener">Looksmaxxing Your Nose — Non-Surgical Options</a>
+      <span class="cluster">body part</span></td>
+    <td class="num">8</td>
+    <td class="num">0.50</td>
+    <td class="num">0.33</td>
+    <td class="q">Can I really improve this area without surgery? · How long do non-surgical improvements take?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/softmaxxing-guide/" target="_blank" rel="noopener">Softmaxxing Guide — Level Up Without Surgery</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">8</td>
+    <td class="num">0.50</td>
+    <td class="num">0.39</td>
+    <td class="q">Who is this guide for? · How often should I update my routine?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/mindset/stoicism-for-modern-men/" target="_blank" rel="noopener">Stoicism for Modern Men — Without the Memes</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">0.50</td>
+    <td class="num">0.52</td>
+    <td class="q">What is Stoicism? · Is Stoicism just about suppressing emotions?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/money/building-online-business/" target="_blank" rel="noopener">Building an Online Business That Is Not Nonsense</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">0.50</td>
+    <td class="num">0.48</td>
+    <td class="q">What is the easiest online business to start? · How much can you make with an online business?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/money/investing-basics-for-men/" target="_blank" rel="noopener">Investing Basics for Men Who Actually Want Results</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">0.50</td>
+    <td class="num">0.52</td>
+    <td class="q">How much should I invest each month? · What is the best investment account for beginners?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/style/mens-grooming-style-guide/" target="_blank" rel="noopener">The Men's Grooming Style Guide</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">0.50</td>
+    <td class="num">0.54</td>
+    <td class="q">How often should men get a haircut? · What is the best haircut for men?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/style/personal-branding-basics/" target="_blank" rel="noopener">Personal Branding for Men — Without Being Cringe</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">0.50</td>
+    <td class="num">0.39</td>
+    <td class="q">What is personal branding? · Should I start a personal brand?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/fitness/meal-prep-for-men/" target="_blank" rel="noopener">Meal Prep for Men Who Actually Eat</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">0.60</td>
+    <td class="num">0.38</td>
+    <td class="q">How long does meal prep take? · How many meals should I prep at once?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/fitness/weight-loss-for-men/" target="_blank" rel="noopener">Weight Loss for Men — The Honest Playbook</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">0.60</td>
+    <td class="num">0.53</td>
+    <td class="q">How much weight can a man realistically lose in 3 months? · What is the best diet for male weight loss?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/daily-looksmaxxing-routine/" target="_blank" rel="noopener">The Daily Looksmaxxing Routine That Actually Works</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">8</td>
+    <td class="num">0.60</td>
+    <td class="num">0.32</td>
+    <td class="q">Who is this guide for? · How often should I update my routine?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/is-looksmaxxing-real/" target="_blank" rel="noopener">Is Looksmaxxing Real? What Science Actually Says</a>
+      <span class="cluster">comparison</span></td>
+    <td class="num">8</td>
+    <td class="num">0.60</td>
+    <td class="num">0.31</td>
+    <td class="q">What is the main difference covered in this comparison? · Which approach is better for beginners?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/looksmaxxing-ai-rating-tools-compared/" target="_blank" rel="noopener">Looksmaxxing AI Rating Tools — Which Ones Are Worth It?</a>
+      <span class="cluster">ai tools</span></td>
+    <td class="num">8</td>
+    <td class="num">0.60</td>
+    <td class="num">0.42</td>
+    <td class="q">Are AI looksmaxxing tools accurate? · Which AI rating tool is the most reliable?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/mindset/morning-routine-discipline/" target="_blank" rel="noopener">The Morning Routine That Actually Builds Discipline</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">0.60</td>
+    <td class="num">0.54</td>
+    <td class="q">What is the best time to wake up? · Do I need to wake up at 4am?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/money/salary-negotiation-tactics/" target="_blank" rel="noopener">Salary Negotiation Tactics That Actually Work</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">0.60</td>
+    <td class="num">0.46</td>
+    <td class="q">Is it rude to negotiate salary? · How much can I usually negotiate above the initial offer?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/money/side-hustles-for-men/" target="_blank" rel="noopener">Side Hustles for Men That Actually Make Money</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">0.60</td>
+    <td class="num">0.48</td>
+    <td class="q">What is the best side hustle for men? · How much can I realistically make from a side hustle?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/creativity/chatgpt-claude-creative-writing/" target="_blank" rel="noopener">Using ChatGPT and Claude for Creative Writing That Does Not Suck</a>
+      <span class="cluster">ai creativity</span></td>
+    <td class="num">7</td>
+    <td class="num">0.67</td>
+    <td class="num">0.48</td>
+    <td class="q">Is Claude or ChatGPT better for creative writing? · Can I use AI to write a novel?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/creativity/vibe-coding-and-tokenmaxxing/" target="_blank" rel="noopener">Vibe Coding and Tokenmaxxing — Shipping Software in 2026</a>
+      <span class="cluster">ai creativity</span></td>
+    <td class="num">10</td>
+    <td class="num">0.67</td>
+    <td class="num">0.68</td>
+    <td class="q">What is vibe coding? · What is tokenmaxxing?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/dating/dating-app-optimization/" target="_blank" rel="noopener">Dating App Profile Optimization — The Real Version</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">0.67</td>
+    <td class="num">0.45</td>
+    <td class="q">What is the best dating app for men? · How many photos should my dating profile have?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/fitness/home-workout-guide/" target="_blank" rel="noopener">The Complete Home Workout Guide (No Equipment Needed)</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">0.67</td>
+    <td class="num">0.32</td>
+    <td class="q">Can you build muscle with just bodyweight? · How long until I see results from home workouts?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/clavicular-net-worth-kick-earnings/" target="_blank" rel="noopener">Clavicular Net Worth and Kick Earnings: What $100K a Month Looked Like</a>
+      <span class="cluster">trending deep-dive</span></td>
+    <td class="num">10</td>
+    <td class="num">0.67</td>
+    <td class="num">0.51</td>
+    <td class="q">What is Clavicular's net worth? · How much did he earn on Kick?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/creators-like-clavicular-without-blackpill/" target="_blank" rel="noopener">Creators Like Clavicular But Without the Blackpill: Where to Get the Analysis Without the Doom</a>
+      <span class="cluster">demographics</span></td>
+    <td class="num">10</td>
+    <td class="num">0.67</td>
+    <td class="num">0.56</td>
+    <td class="q">Who is the best alternative to Clavicular? · Is QOVES Studio actually clinical?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/female-looksmaxxing/" target="_blank" rel="noopener">Female Looksmaxxing: The Quiet Rise of 'Stacey' Optimization</a>
+      <span class="cluster">demographics</span></td>
+    <td class="num">10</td>
+    <td class="num">0.67</td>
+    <td class="num">0.53</td>
+    <td class="q">What is female looksmaxxing? · What is a 'Stacey' in looksmaxxing terms?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/looksmaxxing-dangers-doctors-warn/" target="_blank" rel="noopener">What Doctors Want You to Know About Looksmaxxing: The Real Risks</a>
+      <span class="cluster">trending deep-dive</span></td>
+    <td class="num">10</td>
+    <td class="num">0.67</td>
+    <td class="num">0.62</td>
+    <td class="q">What are the main dangers of looksmaxxing? · What is 'boy kibble'?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/looksmaxxing-for-beginners/" target="_blank" rel="noopener">Looksmaxxing for Beginners — Where to Start</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">8</td>
+    <td class="num">0.67</td>
+    <td class="num">0.46</td>
+    <td class="q">Where do I start with looksmaxxing as a complete beginner? · What is the easiest looksmaxxing win?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/mindset/handling-rejection/" target="_blank" rel="noopener">How to Handle Rejection Without It Destroying You</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">0.67</td>
+    <td class="num">0.35</td>
+    <td class="q">Why does rejection hurt so much? · How long does rejection pain last?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/money/financial-freedom-roadmap/" target="_blank" rel="noopener">The Financial Freedom Roadmap</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">0.67</td>
+    <td class="num">0.40</td>
+    <td class="q">What is the difference between financial freedom and financial independence? · How long does it take to achieve financial freedom?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/fitness/peptides-guide-for-men/" target="_blank" rel="noopener">Peptides for Men — Honest Guide to BPC-157, TB-500, CJC-1295 and More</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">0.71</td>
+    <td class="num">0.65</td>
+    <td class="q">What are peptides used for? · Are peptides legal?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/is-clavicular-banned-everywhere/" target="_blank" rel="noopener">Is Clavicular Banned Everywhere? Live Platform Status (May 2026)</a>
+      <span class="cluster">trending deep-dive</span></td>
+    <td class="num">9</td>
+    <td class="num">0.71</td>
+    <td class="num">0.54</td>
+    <td class="q">Is Clavicular banned on YouTube? · Is Clavicular banned on Kick?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/creativity/ai-image-generation-guide/" target="_blank" rel="noopener">AI Image Generation in 2026 — Midjourney, FLUX, and What Still Requires a Human</a>
+      <span class="cluster">ai creativity</span></td>
+    <td class="num">7</td>
+    <td class="num">0.75</td>
+    <td class="num">0.47</td>
+    <td class="q">Which AI image generator is best in 2026? · Can I use AI images commercially?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/fitness/martial-arts-for-men/" target="_blank" rel="noopener">Which Martial Art Should You Actually Train?</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">0.75</td>
+    <td class="num">0.30</td>
+    <td class="q">What is the best martial art for self-defense? · How old is too old to start martial arts?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/best-looksmaxxing-apps-2026/" target="_blank" rel="noopener">Best Looksmaxxing Apps 2026: Free + Paid, Ranked Honestly</a>
+      <span class="cluster">ai tools</span></td>
+    <td class="num">15</td>
+    <td class="num">0.75</td>
+    <td class="num">0.35</td>
+    <td class="q">What is the best looksmaxxing app in 2026? · What is the best free looksmaxxing app?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/clavicular-before-and-after/" target="_blank" rel="noopener">Clavicular Before and After: What the Photos Actually Show</a>
+      <span class="cluster">trending deep-dive</span></td>
+    <td class="num">10</td>
+    <td class="num">0.75</td>
+    <td class="num">0.67</td>
+    <td class="q">What does Clavicular look like before vs after? · Did bonesmashing cause the jawline?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/looksmaxxing-vs-glow-up/" target="_blank" rel="noopener">Looksmaxxing vs Glow Up — Same Thing or Different?</a>
+      <span class="cluster">comparison</span></td>
+    <td class="num">8</td>
+    <td class="num">0.75</td>
+    <td class="num">0.34</td>
+    <td class="q">What is the main difference covered in this comparison? · Which approach is better for beginners?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/creativity/ai-creative-tools-guide/" target="_blank" rel="noopener">AI Creative Tools — The Real Guide for 2026</a>
+      <span class="cluster">ai creativity</span></td>
+    <td class="num">8</td>
+    <td class="num">0.80</td>
+    <td class="num">0.40</td>
+    <td class="q">Which AI tool should a beginner creator start with? · Will AI replace creative jobs?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/dating/long-term-relationship-guide/" target="_blank" rel="noopener">What Actually Makes Long-Term Relationships Work</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">0.80</td>
+    <td class="num">0.49</td>
+    <td class="q">What makes long-term relationships work? · When does the honeymoon phase end?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/fitness/beginner-strength-program/" target="_blank" rel="noopener">A Beginner Strength Program That Actually Works</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">0.80</td>
+    <td class="num">0.34</td>
+    <td class="q">How long before I see results from a beginner strength program? · Can I do cardio while doing a beginner strength program?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/fitness/cardio-for-fat-loss/" target="_blank" rel="noopener">Cardio for Fat Loss — What Actually Works</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">0.80</td>
+    <td class="num">0.39</td>
+    <td class="q">Is HIIT better than steady-state cardio for fat loss? · How much cardio should I do to lose fat?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/fitness/looksmaxxing-diet-plan/" target="_blank" rel="noopener">The Looksmaxxing Diet — Eat to Look Better</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">8</td>
+    <td class="num">0.80</td>
+    <td class="num">0.26</td>
+    <td class="q">Who is this guide for? · How often should I update my routine?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/clavicular-height-stats/" target="_blank" rel="noopener">Clavicular's Height, Stats, and Physical Profile</a>
+      <span class="cluster">trending deep-dive</span></td>
+    <td class="num">10</td>
+    <td class="num">0.80</td>
+    <td class="num">0.54</td>
+    <td class="q">How tall is Clavicular? · How much does Clavicular weigh?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/looksmaxxing-for-black-men/" target="_blank" rel="noopener">Looksmaxxing for Black Men — Tailored Advice</a>
+      <span class="cluster">demographics</span></td>
+    <td class="num">8</td>
+    <td class="num">0.80</td>
+    <td class="num">0.35</td>
+    <td class="q">Is looksmaxxing different for different demographics? · Are product recommendations universal?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/looksmaxxing-haircuts/" target="_blank" rel="noopener">Best Looksmaxxing Haircuts for Your Face Shape</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">8</td>
+    <td class="num">0.80</td>
+    <td class="num">0.38</td>
+    <td class="q">Who is this guide for? · How often should I update my routine?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/looksmaxxing-in-your-30s-40s/" target="_blank" rel="noopener">Looksmaxxing in Your 30s and 40s — It's Not Too Late</a>
+      <span class="cluster">demographics</span></td>
+    <td class="num">8</td>
+    <td class="num">0.80</td>
+    <td class="num">0.49</td>
+    <td class="q">Is looksmaxxing different for different demographics? · Are product recommendations universal?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/clavicular-aqualyx-jenny-popach/" target="_blank" rel="noopener">The Clavicular Aqualyx Incident: What Was Injected, and Why It's a Criminal Act</a>
+      <span class="cluster">trending deep-dive</span></td>
+    <td class="num">9</td>
+    <td class="num">0.86</td>
+    <td class="num">0.65</td>
+    <td class="q">What is Aqualyx? · What happened with Clavicular and Jenny Popach?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/fitness/glp-1-for-men-guide/" target="_blank" rel="noopener">GLP-1 Medications (Ozempic, Wegovy, Mounjaro) for Men — The Real Guide</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">0.88</td>
+    <td class="num">0.69</td>
+    <td class="q">What are GLP-1 medications? · How much weight can men lose on GLP-1?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/clavicular-real-name-age-bio/" target="_blank" rel="noopener">Clavicular's Real Name, Age, and Origin: Who Is Braden Eric Peters?</a>
+      <span class="cluster">trending deep-dive</span></td>
+    <td class="num">10</td>
+    <td class="num">0.88</td>
+    <td class="num">0.67</td>
+    <td class="q">What is Clavicular's real name? · How old is Clavicular?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/dating/building-confidence-with-women/" target="_blank" rel="noopener">Building Real Confidence with Women</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">1.00</td>
+    <td class="num">0.36</td>
+    <td class="q">How long does it take to build real confidence with women? · Can I fake confidence until I make it?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/dating/how-to-approach-women/" target="_blank" rel="noopener">How to Approach Women Without Being Weird</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">1.00</td>
+    <td class="num">0.54</td>
+    <td class="q">Is it weird to approach women in public? · Where is the best place to meet women?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/dating/passport-bros-explained/" target="_blank" rel="noopener">Passport Bros — What the Movement Actually Is</a>
+      <span class="cluster">glossary culture</span></td>
+    <td class="num">10</td>
+    <td class="num">1.00</td>
+    <td class="num">0.68</td>
+    <td class="q">What does passport bros mean? · Where do passport bros go?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/fitness/best-training-splits-aesthetics/" target="_blank" rel="noopener">Best Training Splits for an Aesthetic Physique</a>
+      <span class="cluster">comparison</span></td>
+    <td class="num">10</td>
+    <td class="num">1.00</td>
+    <td class="num">0.39</td>
+    <td class="q">Which training split is best for building muscle? · How many days per week should I lift for an aesthetic physique?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/fitness/boost-testosterone-naturally/" target="_blank" rel="noopener">How to Boost Testosterone Naturally</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">1.00</td>
+    <td class="num">0.50</td>
+    <td class="q">Can you actually raise testosterone naturally? · What is the fastest way to boost testosterone?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/fitness/supplements-that-work/" target="_blank" rel="noopener">Supplements That Actually Work (And Those That Do Not)</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">1.00</td>
+    <td class="num">0.51</td>
+    <td class="q">What supplements actually work for building muscle? · Is creatine safe?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/clavicular-girlfriend-violet-lentz/" target="_blank" rel="noopener">Who Is Clavicular's Girlfriend? Violet Lentz, the Jenny Popach Fight, and the 'Dating Three' Claim</a>
+      <span class="cluster">trending deep-dive</span></td>
+    <td class="num">10</td>
+    <td class="num">1.00</td>
+    <td class="num">0.64</td>
+    <td class="q">Who is Clavicular's girlfriend? · What happened with Jenny Popach?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/clavicular-hammer-bonesmashing-routine/" target="_blank" rel="noopener">Clavicular's Hammer Routine: What He Told Impaulsive About Bonesmashing</a>
+      <span class="cluster">trending deep-dive</span></td>
+    <td class="num">9</td>
+    <td class="num">1.00</td>
+    <td class="num">0.72</td>
+    <td class="q">What did Clavicular say on Impaulsive? · Did the hammer routine work?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/looksmaxxing-skincare-routine-men/" target="_blank" rel="noopener">The Looksmaxxing Skincare Routine for Men</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">8</td>
+    <td class="num">1.00</td>
+    <td class="num">0.37</td>
+    <td class="q">Who is this guide for? · How often should I update my routine?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/looks/softmaxxing-vs-hardmaxxing/" target="_blank" rel="noopener">Softmaxxing vs Hardmaxxing: What's the Difference?</a>
+      <span class="cluster">comparison</span></td>
+    <td class="num">7</td>
+    <td class="num">1.00</td>
+    <td class="num">0.56</td>
+    <td class="q">What is the difference between softmaxxing and hardmaxxing? · Should I start with softmaxxing or hardmaxxing?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/masculinity/building-male-friendships/" target="_blank" rel="noopener">How to Build Real Male Friendships in Adulthood</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">1.00</td>
+    <td class="num">0.61</td>
+    <td class="q">Why do men lose friends in adulthood? · How do I make new friends as an adult man?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/mindset/breaking-bad-habits/" target="_blank" rel="noopener">How to Actually Break Bad Habits</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">1.00</td>
+    <td class="num">0.40</td>
+    <td class="q">How long does it take to break a bad habit? · What is the most effective way to break a bad habit?</td>
+  </tr><tr>
+    <td><a href="https://looksmaxxing.guide/en/style/dress-for-your-body-type/" target="_blank" rel="noopener">How to Dress for Your Body Type</a>
+      <span class="cluster">guide</span></td>
+    <td class="num">10</td>
+    <td class="num">1.00</td>
+    <td class="num">0.53</td>
+    <td class="q">How should short men dress? · What should tall men avoid wearing?</td>
+  </tr></tbody></table>
+
+<h2>What this deliberately does not do</h2>
+<p>It does not write replacement FAQs. Deciding that an FAQ is off-topic is a measurement.
+Authoring a new answer about jaw surgery, fat-dissolving injections or GLP-1 dosing is an editorial
+and medical act, and a script has no business doing it on YMYL pages. The output is a work list for
+the editorial team, not a patch.</p>
+<p>It also does not touch the two other defects found while reading the source: hreflang clusters
+that are non-reciprocal and missing their self-reference, and a <code>lastmod</code> value identical
+across every URL in the sitemap because a build timestamp is leaking into it. Both are real; neither
+belongs in this scan.</p>
+
+<footer>Generated by <a href="https://github.com/ontheroad86/looksmaxxing-faq-audit">faq-audit.js</a>
+· fetched live, concurrency capped at 8 · raw data in
+<a href="./report.json">report.json</a></footer>
+</main></body></html>
